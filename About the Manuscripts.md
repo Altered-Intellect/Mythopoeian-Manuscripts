@@ -3,6 +3,8 @@ This is a worldbuilding project that has been rattling around in my brain for th
 
 The conception of this work in progress has been with me ever since I put pen to paper seven years ago. I started writing down my thoughts in the middle of an existential dread that had taken over my high-school years. Ever since then this project has taken many forms, consumed many ideas, and integrated many stories. I have finally decided to publish this person log book of all my interconnected thoughts in an attempt to get myself to actively cultivate content to communicate to others as most of my writing and worldbuilding has been for the benefit of myself and my headspace.
 
+This has an Obsidian vault with the project. Obsidian will prompt you to download two community extensions but they should not be necessary. 
+
 I will not promise consistent updates but I encourage questions! All I request is that they be on topic and about nothing personal.
 
 As for fanart and derivative works, my only prerequisite is that you credit and send it to me to look at. (please include content warnings, of course) I'd love to see how my stuff resonates with others.
