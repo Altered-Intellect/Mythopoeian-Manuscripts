@@ -12,7 +12,7 @@ date created: 2024-09-29T23:53:00
 last updated: 2024-09-29T23:53:00
 media:
 ---
-A System of Semiotics - a [[Semiotic]] process that interacts with the [[Signa field]] creating a [[Sign-System]] that acts upon the universe in a set of defined ways.
+A System of Semiotics - a semiotic process that interacts with the [[Signa Field]] creating a [[Sign-System]] that acts upon the universe in a set of defined ways.
 
 The magic system of this universe is structured around three central ideas, [[Sign]](s), [[Binding]](s) and the [[Signa Field]]
 
@@ -21,12 +21,14 @@ the trifecta of magic
 The idea of the sign comes from a division of real world science called semiotics. This branch of science at its surface deals with the fundamentals of meaning in communication. The best way to make a stop sign, the structure of body language, optimum advertisements, or effective road signals, but at it most technical it is about how we interpret the world. It is how we impart meaning onto symbols and its mechanics are used to explain complex things like language and culture. 
 Semiotics studies the process in which meaning is created, called semiosis. This concept, the process of semiosis, the "structure of meaning" is the fundamental structure of this magic system. 
 
-[[Semiosis]] involves any process that includes a sign, it does not require language, but because [[Signa]] is structured using knowledge and meaning, language becomes a very valuable tool. Semiosis has three components, the [[System]], the [[Signifier]], and the [[Signified]]. Each of these components play apart in the process of semiosis and define the properties a sign has.
+## [[Semiosis]] 
+the process of [[Life]] comprehending meaning
+involves any process that includes a sign, it does not require language, but because [[Signa]] is structured using knowledge and meaning, language becomes a very valuable tool. Semiosis has three components, the [[System]], the [[Signifier]], and the [[Signified]]. Each of these components play apart in the process of semiosis and define the properties a sign has.
 
 ## [[System]]
 in semiotics, the system is called the subject, but for clarity in distinguishing terms I will be referring to the subject as the [[System]], it is the definition given to the sign, a physical object, an abstract concept, an emotion, a condition, anything that a word can be put to. The subject also includes [[Sign-System]](s), and [[Binding]](s)
 Related terms : (thesis, body, concept, action, doing)
-- a system of objects independent of the Signa linking them together
+- a system of objects independent of the [[Sign]](s) or [[Binding]](s) linking them together
 - it is what the sign refers to, it is the physical thing, the concept, the action that the sign represents, without this the sign has no power, no substance, it is simply a pattern, a way of law.
 -  the object or system that is being referred to, it could be anything as long as it can be perceived and named
 - the fractal nature of physics and its laws
@@ -82,10 +84,10 @@ the physical mechanism of bindings is the [[Signa Field]]. It is an added
 - centered around an observer.
 - becomes much more complex when interacting with living things as the ability to communicate with their surroundings allows information and bindings to be derives from the qualities of the [[Sign-System]]
 # [[Sign Manipulation]]
-the ability of a living system to utilize [[Sign]](s), within their [[Biology]], communication, or [[Culture]] to create or break [[Binding]](s), and/or manipulate the [[Signa Field]] through [[Technology]]
+the ability of [[Life]] to utilize [[Sign]](s), within their [[Biology]], communication, or [[Culture]] to create or break [[Binding]](s), and/or manipulate the [[Signa Field]] through [[Technology]]
 
 ## [[The Three Voices]] 
-the [[Sign]] that allows a living system to use [[Sign Manipulation]]
+the [[Sign]] that allows [[Life]] to use [[Sign Manipulation]]
 how true names are spoken, the songs of the universe are sung, and how holy scriptures can be truly recited 
 The art of the three-fold soul
 - all words spoken with the second voice, resonate with everything, but will resonate more with things that are more similar to the ideal the word conveying 
@@ -101,8 +103,8 @@ the third voice does not speak, it is the silent voice, the space between though
 The second voice is the alignment of the silence and the structure, an understanding of each voice through the other, the union through a sign, its the voice that travels using the medium of [[Signa]], a "second voice" the first being the voice of structure
 
 # [[Complex Plane]]
-mundane reality can be split into four main forces gravity, electromagnetism, the strong force and the weak force, in [[Mythopoeia]], these forces form "planes" of reality, the complex plane is a fifth plane to reality that is formed from the properties of Signa and bindings,
-living systems affect the complex plane even without Signa, the higher density the closer the bond spirit realm has with the physical thus increasing the amount of Signa that can exist in an area  
+mundane reality can be split into four main forces gravity, electromagnetism, the strong force and the weak force, in [[Mythopoeia]], these forces form "planes" of reality, the complex plane is a fifth plane to reality that is formed from the properties of [[Signa]] and [[Binding]],
+[[Life]] affects the complex plane even without Signa, the higher density the closer the bond spirit realm has with the physical thus increasing the amount of Signa that can exist in an area  
 
 When an objects contained another system, that system is embedded with an amount of Signa and rotated into the complex plane, this allows spirits to sense and interact this new system in unique ways
 - Inspired a lot by myths, legends and fairy tales, the fae/spirit realm
@@ -117,7 +119,7 @@ medium of extremely Signa dense, high energy electrons, alpha, beta and gamma ra
 - useful for when you need a lot of energy, much less useful when you need control... many people have blown themselves up trying to use this 
 
 # [[Realm]]
-intersection between two or more properties within the [[Complex Plane]] that are a defined by the system that Signa is bound too
+intersection between two or more properties within the [[Complex Plane]] that are a defined by the system that Signa is bound too, a type of [[Sign]] using a [[Planar Binding]]
 realms can not be entered without the set of rules that define the realm contain a spatial-temporal binding and can not be interacted with at all without a cognition binding or and external anchor such as a [[Spirit]].
 Are result of the [[Complex Plane]] and how it interacts with the rest of the universe
 complex plane can connect different aspects of mundane reality
@@ -125,5 +127,5 @@ complex plane can connect different aspects of mundane reality
 - each end of a wormhole are a set distance away from each other and can not move toward or away from each other, because of this wormholes are often moving very fast comparatively to other surrounding space 
 - Realms can be interacted with with signs and Signa circles, 
 - all realms have a set "distance" from another depending on how different the [[Sign-System]](s) are that define it are, the realm for ice is directly connected to the realm of water by the fact that they are both phase states of the same molecule
-in the same way that a [[Binding]] is the intersection between two or mor [[Sign]](s), a [[Realm]] is the 
+in the same way that a [[Binding]] is the intersection between two or more [[Sign]](s), a [[Realm]] is the intersection between two or more [[Planar Field]](s)
 how a realm is interacted with is dependent on the [[#Bindings]] used to interact with it

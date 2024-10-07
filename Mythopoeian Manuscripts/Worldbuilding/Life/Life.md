@@ -25,7 +25,7 @@ accelerate to near the speed of causality using light, live in [[Stellar Atmosph
 each world accumulates [[Signa]] as it grows larger, which then settles into a configuration based off of the properties of the world
 the Signa will create a [[Sign-System]] unique to that world
 - each world has a unique way that [[Signa]] behaves, signa changes when bound to a system, then the same is true for a celestial object, because if this, each world has its own local laws of semantics and semiotics that affect the laws of physics, each [[World Tree]] has a unique structure, and each system has a harmony in which each body in the system 
-#### [[World Tree]]
+## [[World Tree]]
 the life of a celestial body represented as a spirit in the [[Complex Plane]] 
 a spirit that represents the gene pool of all life on the planet in the form of a massive tree made of folded space time, the living biosphere of the planet. it exists through the whole lifetime of the planet, in all stages of life simultaneously, its branches through all the worlds realms and eras, holding the world together with its roots
 each branch in the tree represents the separation of one species from another, making it fractal like in nature, 
@@ -34,6 +34,7 @@ the planet is a living system with life affecting it as much as the it affects l
 the structure of the tree at a given time is based on the gene-pool of the whole population of life
 world trees are bound to their planets [[World Sign]] creating a complete system of the world
 
->its bark is made of reflected light throughout its life, it’s wood is a deep brown almost black with reflective indents in the grain, which is wrinkled and wavy.  You could see through it and yet it's surface seemed opaque. Simultaneously soild and ethereal, physical and metaphorical. With a dawn of realization they figured they where witnessing a True Sign, the system, signified, and signifier contained in one 
+### [[Terra's World Tree]]
+>its bark is made of reflected light throughout its life, it’s wood is a deep brown almost black with reflective indents in the grain, which is wrinkled and wavy.  You could see through it and yet it's surface seemed opaque. Simultaneously soild and ethereal, physical and metaphorical. With a dawn of realization they figured they where witnessing a True Sign, the system, signified, and signifier contained in one, this was the Erd Tree
 
 The medium of the [[World Spirit]](s)
