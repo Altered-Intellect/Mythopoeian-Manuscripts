@@ -22,6 +22,6 @@ media:
 a Signa star with a [[#Wormholes|wormhole]] passed through the [[#Sol]] system, bringing with it a newly travelling interstellar culture
 they decide to scrape off of the top of the highly bound ecosystem in the spirit realm for study, transporting it to a terraformed planet in their system on the other side. They also planted biology within the system, notably introducing a bunch of alien species to [[#Theia]], several trojans of [[#Terra (N/P)]], and many of the moons of the gas giants in the system, populating them with [[#Void Ecology]] from their system, just in case.
 #### Terran Semantics Age 
-discovery of complex bindings, such as [Enchantment], [Contractual] and [Dominion] spirit bindings, and many of the components of the [Metasigns]
+discovery of complex bindings, such as [[Enchantment]], [[Contractual]] and [[Dominion]] spirit bindings, and many of the components of the [[Metasign]](s)
 #### Terran Space age 
 the space age has furries, through the discovery of [[Chimeric manipulation]] 

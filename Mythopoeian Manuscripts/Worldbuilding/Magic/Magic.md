@@ -81,18 +81,40 @@ the physical mechanism of bindings is the [[Signa Field]]. It is an added
 
 - centered around an observer.
 - becomes much more complex when interacting with living things as the ability to communicate with their surroundings allows information and bindings to be derives from the qualities of the [[Sign-System]]
+# [[Sign Manipulation]]
+the ability of a living system to utilize [[Sign]](s), within their [[Biology]], communication, or [[Culture]] to create or break [[Binding]](s), and/or manipulate the [[Signa Field]] through [[Technology]]
+
+## [[The Three Voices]] 
+the [[Sign]] that allows a living system to use [[Sign Manipulation]]
+how true names are spoken, the songs of the universe are sung, and how holy scriptures can be truly recited 
+The art of the three-fold soul
+- all words spoken with the second voice, resonate with everything, but will resonate more with things that are more similar to the ideal the word conveying 
+### [[Voice of Structure]]
+[[#Subject]] of sapience
+The first voice of structure, it is what is used in communication and expressing intention, it's how we use language and perform action, it guides and is shaped by thought
+- always has a physical medium but can be spoken, gestured, written, ect.
+### [[Voice of Silence]]
+[[#Signifier]] of sentience
+the third voice does not speak, it is the silent voice, the space between thoughts, the moment of now without intention, it is the center and where the [[#Soul]] lies, the "I am" at the center of expirence 
+### [[Voice of the Sign]]
+[[#Signified]] of consciousness
+The second voice is the alignment of the silence and the structure, an understanding of each voice through the other, the union through a sign, its the voice that travels using the medium of [[Signa]], a "second voice" the first being the voice of structure
 
 # [[Complex Plane]]
-mundane reality can be split into four main forces gravity, electromagnetism, the strong force and the weak force, in [[Mythopoeia]], these forces form planes of reality, the complex plane is a "fifth" plane to reality that is formed from the properties of Signa and bindings,
+mundane reality can be split into four main forces gravity, electromagnetism, the strong force and the weak force, in [[Mythopoeia]], these forces form "planes" of reality, the complex plane is a fifth plane to reality that is formed from the properties of Signa and bindings,
 living systems affect the complex plane even without Signa, the higher density the closer the bond spirit realm has with the physical thus increasing the amount of Signa that can exist in an area  
 
 When an objects contained another system, that system is embedded with an amount of Signa and rotated into the complex plane, this allows spirits to sense and interact this new system in unique ways
 - Inspired a lot by myths, legends and fairy tales, the fae/spirit realm
 - this complex plane gets exponentially smaller the further the distance from the mundane dimensions 
-- the more Signa is bound to a system the further that system can travel into the complex plane
+- the more [[Signa]] is bound to a system the further that system can travel into the complex plane
 - there is a limit to how far certain elements can go into the complex plane (if you force it all of the hydrogen gets ripped from your body and then scattered across the universe) 
 - the more mass something has the more energy it takes to move it, hydrogen is the easiest element to move through the complex plane, 
 - the entirety of the complex plane is rotating, making the the location of mundane reality within the complex plane change overtime, this rotation is the movement of Signa
+## [[Inter-Planar Medium]]
+medium of extremely Signa dense, high energy electrons, alpha, beta and gamma radiation that makes up 96% of the mass-energy content of the [[Complex Plane]]
+- in the "cooler" parts of the medium, super heated hydrogen gas forms that is often used to power many advanced stellar-level cultures and their technology
+- useful for when you need a lot of energy, much less useful when you need control... many people have blown themselves up trying to use this 
 
 # [[Realm]]
 intersection between two or more properties within the [[Complex Plane]] that are a defined by the system that Signa is bound too
@@ -102,6 +124,6 @@ complex plane can connect different aspects of mundane reality
 - Realms that are bound to both time and space, have the same temporal properties of the complex plane, can connect two places in time, thus creating [[Wormhole]](s)
 - each end of a wormhole are a set distance away from each other and can not move toward or away from each other, because of this wormholes are often moving very fast comparatively to other surrounding space 
 - Realms can be interacted with with signs and Signa circles, 
-- all realms have a set "distance" from another depending on how different the rules are, the realm for ice is directly connected to the realm of water by the fact that they are both phase states of the same molecule
+- all realms have a set "distance" from another depending on how different the [[Sign-System]](s) are that define it are, the realm for ice is directly connected to the realm of water by the fact that they are both phase states of the same molecule
 in the same way that a [[Binding]] is the intersection between two or mor [[Sign]](s), a [[Realm]] is the 
 how a realm is interacted with is dependent on the [[#Bindings]] used to interact with it

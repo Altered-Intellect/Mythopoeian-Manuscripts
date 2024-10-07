@@ -23,6 +23,7 @@ as [[Signa particle]](s) do not have an inherent charge, spin, or size, and can 
 #### [[Signa Void]]
 a bound area that has no energy, or "excitations" in the [[Signa Field]], effectively removing [[Signa particle]](s), and [[Binding]](s), from the area. this removes the "magical" component of [[#Signs]] creating an area that behaves almost exactly like mundane reality, this doesn't completely remove the influence of the Signa field as it can still interact with mundane physics even when it is has no energy in very specific circumstances (absolute zero and magnetic monopoles can still be achieved for instance) 
 quasi-particles form in any Signa saturated matter that is under its maximum Signa capacity, they key is to make those quasi-particles interact to create a void of Signa within the matter. This void can be grown and shaped by extracting Signa from the material and manipulating the shape and topology of the void
+- Life on bodies within [[Signa Void]](s) are unable to develop [[Sign Manipulation]]
 
 ## [[Signa Phase State]]
 >"It is our duty to spiritualize the periodic table." - Crypotheism
@@ -35,3 +36,9 @@ Each element has three metrics that have to do with how Signa interacts with the
 - Retention : how much Signa can be bound to a set quantity of the element, this is determined by mass and electron orbitals
 - Attraction : how well Signa binds to the element, a positive number means that Signa is attracted to it, negative is the opposite
 - Property : the change in the properties of the element, each element gains an extra property, which is a "logic statement" that describes it
+
+### [[Temporal Ring]]
+sections of space that have been folded into a self contained loop, these loops contain event horizons that prevent outside influence, rings of spacetime, giving matter the means to travel back in time
+- can be formed artificially using [[Temporal Binding]]
+- formed naturally within the ergospheres of a [[Dark Star]]
+- links of between hundreds of to thousands of temporal rings make up the body of mechanics in [[#Leviathan]] biology

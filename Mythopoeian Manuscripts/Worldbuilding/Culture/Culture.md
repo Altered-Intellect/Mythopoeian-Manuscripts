@@ -8,4 +8,4 @@ last updated: 2024-09-29T17:24:00
 media:
 ---
 
-# [[Life]]
+# [[Worldbuilding/Culture/Life]]

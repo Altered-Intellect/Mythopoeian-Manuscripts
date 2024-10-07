@@ -26,7 +26,13 @@ a realm made up of [[#World Tree]](s), forming a "forest" in the complex plane o
 ### [[Valley's World Tree]]
 ### [[Terra's World Tree]]
 ### [[Nebos' World Tree]]
-# [[The Galaxy]]
+
+# [[Cosmic Weave]]
+our universe is describes as a web of galactic super-clusters, in this universe, the shape of this web is more regular and has sections that behave similarly to fractals like waves, repeating or retaining a predictable structure
+- the shape of the weave is due to the electromagnetic interactions between matter and the [[#Inter-Planar Medium]] affecting the macro scale structures of the universe 
+# [[Galaxies]]
+high Signa galaxies are much smaller and spin much faster
+
 ## [[Galactic Arm]]
 
 ## [[Galactic Sector]]
@@ -47,8 +53,9 @@ the largest orbiting body of [[#Balance]], home-world of the [anemone crayfish](
 the largest orbiting body around [[#Current]]
 # [[Stellar System]]
 
-
 A trinary [[Signa Star]] [[Stellar System]] with each with high levels of [[Signa]] where life was seeded on this planet many times as life makes it way through the wormhole in the center of the trinary system this planet transporting pre-prehistoric species from across the galaxy, it is the most genetically diverse place in the universe
+## [[Stellar Atmosphere]]
+medium of Intra-stellar material mostly consisting of charged particles, electromagnetic fields, and atomic debris. these form dynamic weather that interacts with the bodies that orbits the stars and the [[Inter-Planar Medium]]
 ## [[Spectrum-house]]
 A collection of plants from different planets covering the whole spectrum of light, they are from different parts of the universe, each one has a unique shape and reflects a very specific wavelength of light, the collection has thousands of plants, each plant is housed within cubic meter of space genetically engineered to fit in the space given, each wall of the space emits light the plant can use but is transparent to the specific frequency that the plant reflects.
 
@@ -58,14 +65,14 @@ the world of twin lands of stone and ice
 an eyeball planet with its sunward side mostly covered in mountains desserts, and the nightward side covered in oceans blanketed by ice 
 Kamen
 ### [[Nightward]]
-the hemisphere of [[#Stone]] that faces away from its star
+the hemisphere of [[Stone]] that faces away from its star
 - Hexagon rocks on continental scale
 ### [[Stormwall]]
 the eternal storm that separates the [[#Nightward]] side from the [[#Starward]] side
 #### [[Shadowland]]
-the area before the [[#Stormwall]] on the [[#Starward]] side
+the area before the [[Stormwall]] on the [[Starward]] side
 ### [[Starward]]
-the hemisphere of [[#Stone]] that faces its star
+the hemisphere of [[Stone]] that faces its star
 
 #### [[Amoebic sea]]
 oddly colored body of liquid which is made up of 50% or more biological matter, often in the form of microscopic organisms, these often exist under oceans or seas, forming off of the dead biological matter that falls to the bottom of them, these seas are also often extremely salty and can be analogous to brine pools, these pools are often extremely dark as most light is absorbed or scattered by the living organisms - 
@@ -310,7 +317,10 @@ The deepest part of an Arboreal basin, completely blocked off from any light. Mo
 an area with a high concentration of [[Signa]] with various levels of energy levels, this creates a tapestry of entropy and emergence that life and [[Spirit]](s) can use to feed off of and accelerate their life cycles 
 # [[Sapient-made]]
 
-## [[Oracle well]] (N/P)
+### [[Megastructures]]
+- as species and their societies expand into space they start constructing mega structures as it is easier than terraforming planets, it is still done but only as a necessary process of cultivating and transplanting [[World Tree]]s as they become a heavily invested art. This is usually done to planets that need minimal terraforming and a preexisting biomass or conditions for that biomass to thrive in
+
+### [[Oracle well]] (N/P)
 a table at the center and a crystal ball placed on top but the oracle has extremely long robes that cover most of the room, wrapping and draping over everything in the small space. The oracle herself is hidden in the shadows, wearing a hood over her face, the cloth has gate patterns on it and pinpoints of light will glow on the cloth mapping the stars in the sky, when the oracle is performing their rituals the cloth is perfectly opaque but it seems to fade in and out of existence especially when you have angered the oracle, each of the flecks of light are from the stars they represent 
 	- the room is bound to the [[Cosmic cave]](s)
 
