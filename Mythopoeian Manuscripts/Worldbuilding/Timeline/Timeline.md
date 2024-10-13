@@ -1,7 +1,10 @@
 ---
-tags: 
-parent docs: "[[Worldbuilding]]"
-sibling docs: "[[Location]]"
+tags:
+  - meta
+parent docs:
+  - "[[Worldbuilding]]"
+sibling docs:
+  - "[[Location]]"
 child docs: 
 date created: 2024-09-29T23:42:00
 last updated: 2024-09-29T23:42:00
@@ -12,8 +15,8 @@ media:
 # T-6.63 billion : Formation of [[Hearth]]
 ## T-6.634 billion : Migration of Leviathans to [[Hearth]]
 ## T-6.634005 billion : Formation of Signavoid enveloping [[Hearth]]'s system
-## T-6.647302 billion : Death of Leviathan Colony on [Hearth]
-## T-6.647302 billion : Collapse of Signavoid enveloping [Hearth]'s system
+## T-6.647302 billion : Death of Leviathan Colony on [[Hearth]]
+## T-6.647302 billion : Collapse of Signavoid enveloping [[Hearth]]'s system
 # Formation of [[Sol]]
 ## Formation of [[#Terra (N/P)]] 
 ## Gathering of [[Signa]]

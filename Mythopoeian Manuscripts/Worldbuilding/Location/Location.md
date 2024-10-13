@@ -8,25 +8,6 @@ last updated: 2024-09-29T17:28:00
 media:
 ---
 
-# [[Realm]]
-See the [[Complex Plane]] for description of Realms
-
-## [[Realm of the Eclipse]]
-- exclusionary realm of [[Sol]], connects all eclipses and midnights into a single "place". It is the earth and Theia without the sun, a cold a desolate realm without light. The only heat coming from the earth itself. The moon hangs in a single place in the sky without its halo, always a broken ring when not an eclipse 
-## [[Elsewhere Wood]]
-the place where lost things go, a place of crumpled spacetime, folded and creased into a mess of extra dimensional geometry, most naturally occurring creases or tears in space time have their origin in these woods making them a dangerous place to be without preparation and knowledge of what ends up in them. at the center is [[The Folding Tree]], its branches and root systems reach an impossible amount of worlds, connecting them together through the woods 
-### [[Backwoods of Creation]]
-the farthest reaches of the elsewhere woods, world isolated from the chaos of the celestial ecosystem
-## [[Desert Bazaar]]
-a realm of endless markets and shops, a place that no matter the world, will seem to come into existence in on form or another, across time and space, realms and worlds, as long as there are people and an edge to civilization, the bazaar appears 
-## [[Cosmic cave]]
-also called the Cosmic caverns, a representation of the cosmos as a cave system with deep winding paths of embedded in dense impassable stone [[celestial stone]], almost opaque but completely black, stars rest in its veins mimicking the structure of the universe, the paths are impossibly long and end in small caverns with a stone arch allowing passage back into the physical part of the universe.
-## [[Galactic Forest]]
-a realm made up of [[#World Tree]](s), forming a "forest" in the complex plane of all life in a galaxy, this "forest" is how people navigate the vast distances between worlds
-### [[Valley's World Tree]]
-### [[Terra's World Tree]]
-### [[Nebos' World Tree]]
-
 # [[Cosmic Weave]]
 our universe is describes as a web of galactic super-clusters, in this universe, the shape of this web is more regular and has sections that behave similarly to fractals like waves, repeating or retaining a predictable structure
 - the shape of the weave is due to the electromagnetic interactions between matter and the [[#Inter-Planar Medium]] affecting the macro scale structures of the universe 
@@ -153,7 +134,7 @@ because of the [[Signa Void]] that prevents stable bindings within the system, T
 - their world tree appears as a plateau of stone, inscribed with the True names and bindings of the people who have bound with Signa
 - as the species develops, the plateau of stone becomes a pillar, then to a large tower that extends seemingly endlessly into the [[#Inter-Planar Medium]], and is woven with a sprouting world tree as more and more species start incorporating Signa into their biology, this tower is used as a space port for those travelling to and from [[Signa Star]](s)
 ## [[Sol]] 
-K class star, Signa-matter ratio of 9.23, high enough for it to be considered a failed [[Signa star]]
+K class star, Signa-matter ratio of 9.23, high enough for it to be considered a failed [[Signa Star]]
 ### [[Terra]]
 1.42 G
 >Terrans, children of Gia. The most feared of the Celestial Pantheon

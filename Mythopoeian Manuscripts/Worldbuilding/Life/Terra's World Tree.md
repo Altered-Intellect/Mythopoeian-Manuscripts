@@ -22,7 +22,7 @@ Spirits that form from the chemical and electrical processes of living and nonli
 Sprites are the spirit equivalent of a cross between a fungus, a plant and a bacteria. Without emotions they enter a state in their life cycle as tiny spore/cyst-like seeds that are basically anywhere there is life and a what to get spirit matter. They feed and/or structure themselves off of simple or elementary changes in a system. active a passive modes correlating to cycles of growth and decay in organisms 
 **[[Sprite Microbiome]]**
 an organism has several colonies of sprites that inhabit their body, but unlike a gut microbiome they can interact more easily between individuals and have more prominent cycles of activity and rest
-Once a colony of sprites is established they can encourage their host to provide them with more information to bind to. Feeling produces sprites which produce more feelings, this cycle is either disrupted by the mind, gut or a constraint in resources 
+Once a colony of sprites is established they can encourage their host to provide them with more information to bind to. Feeling produces sprites which produce more feelings, this cycle is either disrupted by the mind, gut, or a constraint in resources 
 - form symbiotic relationships with [[Spirit]](s)
 - the spirit analog to the ecology of microbiomes in living systems and environments, are apart of the [[Spirit Microbiome]]
 - sprites exist in all ecosystem and in all corners of the planet as their cyst form can survive any environment that has enough complexity and [[Signa]]. 
@@ -129,11 +129,11 @@ forms from behaviors that are only displayed by groups of organisms like boid-mo
 (N/A)
 formed from the path a species takes through the world, the more organisms of that species follow a path and the longer the path, the larger the spirits are able to grow
 - often form from migrating species 
-- have a similar appearance to the species that travel the path
-- are worshiped by humans, dragons, and Cuttlotls' as traveler or merchant gods despite being much simpler than [[#Deities]] 
+- have a similar appearance to the species that travels the path
+- are worshiped by [[Hominid]](s), [[Draconic]], and [[Cuttlotl]](s) as traveler or merchant gods despite being much simpler than [[#Deities]] 
 ### [[Value Spirit]]
 (N/A)
-formed from a cultures view of value, the more people value a system, that system will attract value spirits, currencies are the most common but can also form around other symbols of value like art, tools, symbols, and various resources
+formed from a cultures view of value, the more people value a system, that system will attract value spirits, currencies are the most common but can also form around other signs of value like art, tools, symbols, and various resources
 - have the appearance of glittering patches of light 
 - symbiotic relationship with [[Desire Sprite]]
 ### [[Mob Spirit]]
@@ -171,8 +171,8 @@ Deities that form from the conceptualization of time including the past present 
 [[#Nature Spirits (N/P)]] that have gain enough structure and bindings to gain people that remember, respect, or revere the subject that they are bound to. 
 ##### [[Mother Earth]]
 Mother Earth isn't just a metaphor. She is bound to the concept of life itself on the planet. the keeper of [[Terra's World Tree]] 
-The entire Terran ecosystem is in fact a sapient whole. The only reason we don't see aliens is because Mother Earth is super xenophobic and kills any non-terran life that appears, often through very deadly diseases and viruses. 
-Aliens learned this the hard way and are not sure how to handle humans desperate plea for first contact.
+The entire Terran ecosystem is in fact a sapient whole. The reason have had a rought time with first contact is because Mother Earth is super xenophobic and kills any non-terran life that appears, often through very deadly diseases and viruses. 
+Aliens learned this the hard way and are not sure how to handle terrans desperate plea for first contact.
 ###### [[Forest Spirit]]
 
 ##### [[Father of Storms]]
@@ -245,10 +245,6 @@ the species that are the most malevolent are seen generally as vermin and unplea
 - goblins in human dwellings are doglike or furry
 - goblins in dragon dwellings are scalie or bird like 
 
-**Goblin Video games**
-Wildly unbalanced collectathon gatchas where half the fun is finding new hilariously broken strategies. Zany uberviolent team shooters about bugs. MOBAs so bad it's art. Goblin code looks incomprehensible but if you take the time to look through it, you realize it's actually optimized in ways you never thought were even possible. Goblins are responsible for like 75% of every games modding community. Goblins all run Linux.
-**Goblin Music**
-goblin punk band
 #### [[Hobgoblin]]
 Goblins that have been Named by the inhabitants of the dwelling they are bound to
 #### [[Solutus Goblin]]
@@ -316,6 +312,8 @@ demons are that one dog cancer that is its own single celled disease
 Demons can burn out and freeze if not kept moving, this kills some demons but most return to a cyst like husk that can be resuscitated with intense heat.
 - demon exorcism involves lowering the temperature of environment
 - because people have strong senses of [[Identity]], and Demons have very low senses of identity. Demons will either actively or passively consume the Identity of a person if the demon knows their [[Name]]
+- Because demons are subterranean, most of their ecosystem is under the ocean linking the deep sea to the underworld 
+- They are ancient back when Terra was a hot molten mess, the silicate organism stuck around instead of dying out completely, they have changed alot to become demons but the connection is the same as the rest of life on Terra, just stretching back to the roots
 
 >A lot of the substances we think of as protection against the supernatural (e.g. salt, silver, garlic) are actually antibacterial, and would have helped stave off infections and illnesses that people once attributed to supernatural influence. demons are repelled by hand sanitizer.
 ##### [[Ascended Demon]]
@@ -331,7 +329,7 @@ sentient to sapient ascended demons that have been Named by a [[Spirit Binding]]
 ### [[Angel]]
 angels are possessor spirits of static ideals, balance, and order, the corporeal part is a flowering body, the rest is stretched across space-time as the relationship between its [[Ideals]], they "posses" the abstract concept, logic, and structure that is found throughout nature
 - they are not the birds but the flock, not the fish but the school, not the mushroom but the fungal network, the bond between a parasitic plant and a forest 
-(?) are most "topologically" related to fungus
+- God's are the third main branch but are above the roots, making demons and their branch of the lifetree older than the gods 
 #### [[Fallen Angel]]
 when an angel breaks the [[Ideal]] it represents, losing their [Name] and gaining a body, giving it a [[Voice of Silence]] thus conscious experience of linear time
 #### [[Nephilim]]
