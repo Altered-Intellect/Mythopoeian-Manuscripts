@@ -23,15 +23,15 @@ Crucible of the Cosmos: a place in the galaxy where most stars are reborn and me
 Celestia systems without a central star
 ## [[Saldo]]
 ### [[Balance]] 
-the large [[#Gaseous]] body that is the center of the system
+the large [[Gaseous Planet]] that is the center of the system
 [[Saldo]]
 #### [[Current]]
 3.48 G
-the largest orbiting body of [[#Balance]], home-world of the [anemone crayfish](a species that resembls crayfish crabs and is both radially and bimetrically symmetric, they can sense light of specific wavelenghts that are produced using bioluminecence and biophotoreception, are roughly the size of a coconut crab) they live underneath the global ocean covered in ice, it is a rouge planet in a relatively small elliptical orbit around a star cluster
+the largest orbiting body of [[Balance]], home-world of the [anemone crayfish](a species that resembls crayfish crabs and is both radially and bimetrically symmetric, they can sense light of specific wavelenghts that are produced using bioluminecence and biophotoreception, are roughly the size of a coconut crab) they live underneath the global ocean covered in ice, it is a rouge planet in a relatively small elliptical orbit around a star cluster
 - The cultures of Current revere light as a sort of spiritual force, and electromagnetism as a divine force separate but connected to the more “mundane” forces like heat, matter, gravity, and bindings, They define electromagnetism slightly differently and put more emphasis on its interactions with Signa
 - cultures view change as a natural property of existence, light, which moves at the speed of causality is seen as unnatural, exotic, and strange
 #### [[Sibling]]
-the largest orbiting body around [[#Current]]
+the largest orbiting body around [[Current]]
 # [[Stellar System]]
 
 A trinary [[Signa Star]] [[Stellar System]] with each with high levels of [[Signa]] where life was seeded on this planet many times as life makes it way through the wormhole in the center of the trinary system this planet transporting pre-prehistoric species from across the galaxy, it is the most genetically diverse place in the universe
@@ -296,10 +296,10 @@ The deepest part of an Arboreal basin, completely blocked off from any light. Mo
 
 ### [[Life Well]]
 an area with a high concentration of [[Signa]] with various levels of energy levels, this creates a tapestry of entropy and emergence that life and [[Spirit]](s) can use to feed off of and accelerate their life cycles 
-# [[Sapient-made]]
+# Sapient-made
 
-### [[Megastructures]]
-- as species and their societies expand into space they start constructing mega structures as it is easier than terraforming planets, it is still done but only as a necessary process of cultivating and transplanting [[World Tree]]s as they become a heavily invested art. This is usually done to planets that need minimal terraforming and a preexisting biomass or conditions for that biomass to thrive in
+### Megastructures
+as species and their societies expand into space they start constructing mega structures as it is easier than terraforming planets, it is still done but only as a necessary process of cultivating and transplanting [[World Tree]]s as they become a heavily invested art. This is usually done to planets that need minimal terraforming and a preexisting biomass or conditions for that biomass to thrive in
 
 ### [[Oracle well]] (N/P)
 a table at the center and a crystal ball placed on top but the oracle has extremely long robes that cover most of the room, wrapping and draping over everything in the small space. The oracle herself is hidden in the shadows, wearing a hood over her face, the cloth has gate patterns on it and pinpoints of light will glow on the cloth mapping the stars in the sky, when the oracle is performing their rituals the cloth is perfectly opaque but it seems to fade in and out of existence especially when you have angered the oracle, each of the flecks of light are from the stars they represent 
@@ -314,18 +314,18 @@ a library-lab hybrid where both experiments and its data are stored, its a local
 often built in universities
 ### [[River town]]
 A community river that instead of being replaced by bath houses, and irrigation is regulated by a dam upriver and sectioned off by how each is used, the waste disposal is the furthest down river, the irrigation is next, then bathing section next followed by the fishing section and the recreation section and then the ritual and spiritual section near the top, as the town grows is goes from frowned upon to illegal to misuse part of the river
-#### [[Stream hall]]
+#### Stream hall
 halls within cave houses near rivers that allow water to flow along its roof and drip down at specific intervals making a constant stream of music, these evolve to become very elaborate and then transform to have live performance
 
-### [[Villa town]]
+### Villa town
 towns started by single families often from the resources and trade done by the family business. They are usually established over several generations and are very tight knit communities
-### [[Barrack town]] (N/P)
+### Barrack town (N/P)
 Towns establish on the infrastructure built in the battles between nations,
 ### [[Prophecy Hall]]
 Like libraries, a Prophecy is stored within a dedicated building supplied by taxes. It is common for libraries to have a dedicated prophecy hall or be located near one. The halls are run by oracles, prophets, and seers. (various jobs that involve sorting new prophecies and keep track of the progress of others)
-### [[Temples of Trespassing]]
+### Temples of Trespassing
 large stone shrines or buildings built underneath bridges, originally built by [[Troll]](s) as apart of their cultural rituals, they leave out sacrifices to the [[#Deities]] of travel and the roads that pass through the bridges 
-### [[Cypher vendor]] (N/P)
+### Cypher vendor (N/P)
 a type of vendor that is often used in black markets and illegal trade. Instead of carrying their wares around with them they instead hide it in protected but accessible locations and sell the coordinates. Most of these vendors branch off from establishing underground market businesses that want to keep their products that are too difficult to handle, store, or move for a more consistent profit. These vendors become standard when black market raids become popular and frequent.
-### [[Public Voicebox]]
+### Public Voicebox
 a voice box is a device use to communicate with people over large distances like a phone but is used to connect the noises of one household to another, often between families, a public voice box often connects several towns together and has greater range 

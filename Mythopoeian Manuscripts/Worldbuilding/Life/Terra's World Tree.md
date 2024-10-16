@@ -91,11 +91,11 @@ sprites that form from the chemical reaction of fire, taking the shape of little
 sprites that likes to form around large differences in energy, often from heat but can form from movement, gravitational waves and light, the light they reflect from their surroundings is linked to the energy source, meaning they can not be seen most of the time, are only visible in a specific range of energy levels or at extreme energy levels depending on what 
 #### [[Growth sprite]]
 (Phylum)
-sprites that form around the growth of and construction of systems, often in the accumulation of [Health] from living organisms
+sprites that form around the growth of and construction of systems, often in the accumulation of [[Life]] from living organisms
 take form as refracted light collecting and overlapping each other in regular patterns 
 #### [[Decay sprites]]
 (Phylum)
-sprites that form from the decay of systems and its structure that range from [Bindings] to [Health] to chemical bonds
+sprites that form from the decay of systems and its structure that range from [[Binding]](s) to [[Life]] to chemical bonds
 take the form of light dispersing, fading overtime 
 ## [[Anima]]
 (N/A)
@@ -109,7 +109,7 @@ When a familiar is first made it is basically a fetus with no agency and no defi
 
 As a familiar grows with its owner, its personality and abilities are entirely dependent on the person. It is a reflection of a person and all of its attributes, physically, mentally, and personality. A familiar is unable to regulate or mask the emotional bond so will display the emotions of its person through appropriate body language. Familiars will change overtime as their person does, both physically and mentally. They can be deliberately changed shape on command although this requires energy and [[Signa]] to do so
 - are used to manage bindings, consume harmful spirits (magic immune system?), and navigate the [[Complex Plane]].
-- Spirits can form Familiars if they are able to bind to a [[Sign of the Self]], this often happens with [[#Deities]]
+- Spirits can form Familiars if they are able to bind to a [[Sign of the Self]], this often happens with a [[Deity]]
 - can interact with the [[Sprite Microbiome]]
 
 ## [[Semantic Spirit]]
@@ -314,6 +314,7 @@ Demons can burn out and freeze if not kept moving, this kills some demons but mo
 - because people have strong senses of [[Identity]], and Demons have very low senses of identity. Demons will either actively or passively consume the Identity of a person if the demon knows their [[Name]]
 - Because demons are subterranean, most of their ecosystem is under the ocean linking the deep sea to the underworld 
 - They are ancient back when Terra was a hot molten mess, the silicate organism stuck around instead of dying out completely, they have changed alot to become demons but the connection is the same as the rest of life on Terra, just stretching back to the roots
+
 
 >A lot of the substances we think of as protection against the supernatural (e.g. salt, silver, garlic) are actually antibacterial, and would have helped stave off infections and illnesses that people once attributed to supernatural influence. demons are repelled by hand sanitizer.
 ##### [[Ascended Demon]]

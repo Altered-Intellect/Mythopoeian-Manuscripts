@@ -8,8 +8,8 @@ sibling docs:
   - "[[Signa Field]]"
 child docs: 
 date created: 2024-10-01T02:23:00
-last updated: 2024-10-01T02:23:00
-media: 
+last updated: 2024-10-15T02:23:00
+media:
 ---
 # Complex Properties
 
