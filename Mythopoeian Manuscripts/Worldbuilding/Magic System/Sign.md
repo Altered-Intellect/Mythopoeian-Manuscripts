@@ -11,26 +11,27 @@ media:
 
 # [[Metasign]]
 contains the sign and its [[#Inverse Sign]], and their [[#Perpendicular Sign]], the sign acts as the [[System]], the inverse acts as the signifier and the perpendicular acts as the signified
-metasigns allow bindings between minds as consciousness can be used as both a [[System]] and [[Signifier]]
-- sign that acts on the System and signifier of another sign
-- sign that acts on the System and signified of another sign
-- sign that acts on the signified and the signifier of another sign
+metasigns allow bindings to self reference and intersect in complex ways giving rise to  
+between minds as consciousness can be used as both a [[System]] and [[Signifier]]
+- sign that acts on the System and Signifier of another Sign
+- sign that acts on the System and signified of another Sign
+- sign that acts on the Signified and the Signifier of another Sign
 - sign to the System of another sign
 - sign to the signifier of another sign
 - sign to the signified of another sign
 
-> Magic is a blind witness, words become unheard as they are spoken, lies cut from the throat become fragile truths, which only the illiterate can hear, Signified and System severed from their Sign, an unbalanced Binding supported by absence alone, that on true impossibility, a true vacuum
 ## [[Inverse Sign]]
 the sign that is opposite to one of the properties, the number of inverse signs is related to the amount of information in the system that the sign encodes, an inverse sign will always have the same complexity 
 
 ## [[Perpendicular Sign]]
-the sign that is perpendicular to its origin, concept that binds two signs together, the union of a sign and its opposite, a perpendicular will always be more or less complex than the [[Sign]] and its inverse, never equally complex
+the sign that is perpendicular according to some concept that binds two signs together, the union of a sign and its opposite, a perpendicular will always be more or less complex than the [[Sign]] and its inverse, never equally complex
+- for example, the perpendicular sign of black and white is the sign of 
 
 # [[World Sign]]
 the [[Sign]] formed from a [[Celestial Bodies]], they are slower than other forms of spirits, take the form of large fractal structures within the [[Complex Plane]]. They are not considered alive as the celestial bodies that they are bound to do not have life. Gas Giants seem to be more dynamic with their shifting atmosphere and electromagnetic fields, but many tectonically active planets are also dynamic 
 
 ## World Mantle
-The result of an Electromagnetic and Signa field that is generated from a world 
-
+The result of an intersection of the Electromagnetic and [[Signa Field]] that is generated from a world 
+- the world mantle is most prominent in gaseous worlds and rocky worlds with active tectonic activity
 ## World Scar
 Are made when a [[Planetoid]] is hit by a another similarly sized [[Object]] 

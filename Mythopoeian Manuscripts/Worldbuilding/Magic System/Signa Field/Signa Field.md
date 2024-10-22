@@ -7,7 +7,6 @@ date created: 2024-10-01T01:09:00
 last updated: 2024-10-01T01:09:00
 media: 
 ---
-
 ### [[Meta interaction]]
 the interactions between the types of [[Signa particle]](s) are how [[Binding]](s) form
 Signa-energy interactions store the energy that they are bound to preventing it from being either a potential or kinetic state 
@@ -28,8 +27,8 @@ quasi-particles form in any Signa saturated matter that is under its maximum Sig
 ## [[Signa Phase State]]
 >"It is our duty to spiritualize the periodic table." - Crypotheism
 
-When [[Signa]] binds to matter in a specific range of ratios it will undergo a special phase transition that will alter the matter's properties. This transition requires varying levels of Signa for each element, and often only happens in specific temperature and pressure ranges, and electromagnetic radiation or energy levels. The structure of the element and the Signa need to harmonize
-- The transitions only effects the ions of Nobel gasses. 
+When [[Signa]] binds to matter in a specific range of ratios it will undergo a special phase transition that will alter the matter's properties. This transition requires varying levels of Signa for each element, and often only happens in specific temperature or pressure ranges, and electromagnetic radiation or energy levels. The structure of the element and the Signa need to harmonize
+- The transitions only effects the ions of Nobel gasses not their stable forms, which makes the Signa Pase State of Noble gasses virtually impossible to create naturally
 - Most transition metals only undergo a phase transition in the presence of an electromagnetic field
 
 Each element has three metrics that have to do with how Signa interacts with the element

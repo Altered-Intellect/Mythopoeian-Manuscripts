@@ -40,7 +40,7 @@ Related terms : (synthesis, spirit, understanding, flow, feeling)
 - The stronger the understanding, the stronger the interaction between the [[Sign-System]] and the [[Signa Field]].
 
 ## [[Signifier]] 
-This is the simplest but often the most important part of the [[Sign]], it is what the image, the writing, the song, the speech, the representation. What the representation is made of affects how the [[Sign]] is read. 
+This is the simplest but often the most important part of the [[Sign]], it is the image, the writing, the song, the speech, the representation that the Sign uses to communicate its structure. What the representation is made of affects how the [[Sign]] is read. 
 Related terms : (antithesis, mind, medium, movement, thinking)
 - the symbol used to describe the object or system, it could be a spoken word, a phrase, a gesture, a piece of art, it only needs to convey meaning
 - Imitation, symbolism, rhyming, and medium all affect how a being may read the sign, and how they might express the sign.
@@ -52,23 +52,28 @@ the intersection between two or more [[Sign-System]](s). It is the most simplist
 an extra permeable field like space-time or the electromagnetic field. It is the medium of information. Its carrier particle, the [[Lekton]], is the basis to any [[Sign-System]]. It interacts with all other laws of physics altering how entropy and emergence behave, Signa binds to how information in the universe is structured,
 ## [[Signa]]
 the substance of magic, it is the group of particles that act as the physical mechanisms of [[Binding]](s), [[Sign]](s), and [[Realm]](s).
-### [[Psynon  Φ]]
-a [[Signa Particle]] bound to [[Sign-System]](s) when not bound to another particle or field, including itself, it has no properties and instantly decays into energy, are only stable within [[Binding]](s), [[Sign]](s) and other [[Sign-System]](s)
+### [[Ikon Ѱ]]
+Signa-Particle Binding
+[[Signa]] bound to [[Sign-System]](s) when not bound to another particle or field, including itself, it has no properties and instantly decays into energy, are only stable within [[Binding]](s), [[Sign]](s) and other Sign-Systems.
 - have no angular momentum/spin, no mass and no charge, only being made of [[Superlative Energy]]
 - are created by patterns, fractals, and logic but have asymptotic limits to how much a [[Sign-System]] can hold
-### [[Ikon Ѱ]]
+- All elementary particles have three properties, charge, mass, and spin, the behavior of Signa is dependent on what properties of the particle its bound to
+### [[Psynon  Φ]]
 Signa-Field Binding 
-when [[Signa]] is bound to a field, it will adopt properties based on the particle or waveform and will gain specific behaviors depending on the properties of that field. Signa will decay into the fundamental particles of that field
+[[Signa]] bound to a field will adopt properties based on the particle or waveform and will gain specific behaviors depending on the properties of that field. Signa will decay into the fundamental particles of that field
 Signa particle changes properties with the information it is bound to, It is extremely stable and evenly distributes itself in a given area, it's everywhere at any given time but the concentration can vary based on the particles it is interacting with
 it can change one form of energy into another, Ie. absorbing energy in the form of heat and then releasing it in the form of radiation or an electromagnetic field, these transfers are not always 100% efficient and will cause excitations in other fields, or will transfer energy into nearby particles
 Signa when bound a field, it tends to spread out, allowing the density to match the amount of energy-mass content in the area.
 Energy can be stored in the bonds between Signa and other particles, the amount of energy a Signa bond can hold is dependent on the energy-mass content of the system it is bound to
-- the higher the wave length an Ikon has, the more information it can bind to
+- the higher the wave length Psynon has, the more information it can bind to
+- the structure of a Psynon is distributed across the entirety of the field it is bound to
+- the Signa particle that comprises the structure of [[Planar Field]](s)
 
-### [[Axion Θ]]
+### [[Lekton Θ]]
 Signa-Signa Binding
-Signa in it purest form, a particle that is only bound to other Signa
+[[Signa]] in it purest form, a particle that is only bound to other Signa. Like all mundane particles it is a topological disturbances in its field, it is a fundamental particle and is the force carrier for the [[Signa Field]]
 - tends to aggregate as it will only interact with itself
+#### [[Lekta]]
 # [[Sign-System]]
 A [[System]] that includes a [[Sign]]
 
@@ -92,14 +97,15 @@ how true names are spoken, the songs of the universe are sung, and how holy scri
 The art of the three-fold soul
 - all words spoken with the second voice, resonate with everything, but will resonate more with things that are more similar to the ideal the word conveying 
 ### [[Voice of Structure]]
-[[#Subject]] of sapience
+[[#Subject]] of sapience, medium of [[Culture]]
 The first voice of structure, it is what is used in communication and expressing intention, it's how we use language and perform action, it guides and is shaped by thought
 - always has a physical medium but can be spoken, gestured, written, ect.
+
 ### [[Voice of Silence]]
-[[#Signifier]] of sentience
+[[#Signifier]] of sentience, medium of the [[Soul]]
 the third voice does not speak, it is the silent voice, the space between thoughts, the moment of now without intention, it is the center and where the [[#Soul]] lies, the "I am" at the center of experience 
 ### [[Voice of the Sign]]
-[[#Signified]] of consciousness
+[[#Signified]] of consciousness, medium of the [[Sign]]
 The second voice is the alignment of the silence and the structure, an understanding of each voice through the other, the union through a sign, its the voice that travels using the medium of [[Signa]], a "second voice" the first being the voice of structure
 
 # [[Complex Plane]]
