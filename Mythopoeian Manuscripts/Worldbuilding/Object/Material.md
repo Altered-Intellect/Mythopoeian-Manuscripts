@@ -1,11 +1,11 @@
 
-## [[Somatic]]
+## Somatic
 materials of biology
 #### [[Explosive Marrow]]
 can be purified into a substance similar to gunpowder, made from the bones of [[Creature/plant]]
 
 #### [[Cursed Flesh]]
-a foul smelling muck that is composed of carbon ash, water, and bacteria from a corpse decomposed by [[Biological Binding]](s) from an [[Undead]]
+a foul smelling muck that is composed of ash, water, and bacteria from a corpse decomposed by [[Biological Binding]](s) from an [[Undead]]
 #### [[Steelgrain]]
 or grained steel, is a wood harvested and treated from the trees of the [[Iron-wood]]
 
@@ -24,12 +24,14 @@ valued for its ability to absorb the pattern of the light around it, making it a
 A thin cloth material made from a type of sign-bound [[#Tapestry silk]] that can deflect light in any direction, the cloth is bound to a [signa-conductive](Signa Conductivity) that allows control over the angle and polarity of the deflected light 
 Shadow film is used in the first projected movie films
 
-## [[Crafted Material]]
+## Crafted
 Material made by an organism, either externally via tool manipulation, or tangentially through interactions with it environment
 
-- A family of clays that can store chemical reactions and vary in degradation and efficiency on release The storing tempers the clay into ceramics that release their reaction on breaking. The surface of the break releases the reaction. These ceramics degrade over time slowly releasing the stored energy as heat light and high signa debris
+### __ 
+A family of clays that can store chemical reactions and vary in degradation and efficiency on release The storing tempers the clay into ceramics that release their reaction on breaking. The surface of the break releases the reaction. These ceramics degrade over time slowly releasing the stored energy as heat light and high signa debris
 [[Liquid sharpening]] - a material that primes any self-repeating structure to grow given the proper material and energy
 ### [[Blue-Purple brick]]
+a type of stone that both resists and reflects the effects of the Signa-dense currents of the [[Pearlsand Sea]]
 ### [[Optic Glass]]
 a material  made from a molecule derived from [[#Tapestry]] silk with unique lightbending properties
 ### [[Guffin Gold]]
@@ -95,7 +97,7 @@ a wood made from weaving the leaves of [[Wormgrass]] into a desired shape, then 
 the fluids of wormgrass, both the sap and oils, extracted by milling it into a pulp that is then compressed
 #### [[Nectar glass]]
 an amorphous solid made from [[Wormgrass Sap]], its is made by combining the sap with an [oil] and letting it set for 7 days, it is edible by most species though usually unpleasant to do so, as it is bitter and sharp both literally and figuratively 
-## [[Natural Material]]
+## Natural
 ### [[Pearlstone]]
 a reflective white extremely Signa-dense stone similar to mother of pearl, made when matter is transmuted from the affects of the high concentrations in the [[Pearlsand Sea]], 
 #### [[Pearlsand]]

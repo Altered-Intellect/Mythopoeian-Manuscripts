@@ -19,7 +19,7 @@ this density is tied to the "probability"
 ### [[Anti-Signa]]
 as [[Signa particle]](s) do not have an inherent charge, spin, or size, and can be formed from both positive and negative energy, [[Signa]] can not form anti particles
 - removing [[Sign Manipulation]] in a living organism requires surgery and/or the ability to create a [[Signa Void]] which requires algebraic math and precision using [[Sign Circle]]
-- The ability to artificially break [[Analogue Binding]](s), create [[#Signa Voids]] and [[#Inverse Sign]](s) are ancient secrets in some post-collapse [[Terran Culture]]
+- The ability to artificially break [[Analogue Binding]](s), create [[#Signa Voids]] and [[#Inverse Sign]](s) are ancient secrets in some post-collapse [[Terran Culture Tree]]
 #### [[Signa Void]]
 a bound area that has no energy, or "excitations" in the [[Signa Field]], effectively removing [[Signa particle]](s), and [[Binding]](s), from the area. this removes the "magical" component of [[#Signs]] creating an area that behaves almost exactly like mundane reality, this doesn't completely remove the influence of the Signa field as it can still interact with mundane physics even when it is has no energy in very specific circumstances (absolute zero and magnetic monopoles can still be achieved for instance) 
 quasi-particles form in any Signa saturated matter that is under its maximum Signa capacity, they key is to make those quasi-particles interact to create a void of Signa within the matter. This void can be grown and shaped by extracting Signa from the material and manipulating the shape and topology of the void

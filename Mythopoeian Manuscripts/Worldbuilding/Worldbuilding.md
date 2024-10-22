@@ -11,7 +11,7 @@ media:
 a [[System]] with [[Semiosis]]
 Documentation of all the different cultures that have lived and died in the Mythopoeian universe 
 Just as Life is a force within this universe, Culture is too. 
-### [[Terran Culture]]
+### [[Terran Culture Tree]]
 The force of Culture has a wide reach on the world of [[Terra]] as the Cultures of Terra have their roots in many species across the planet. from spirits to space dust. The main three Cultural forces come from three species groups, the [[Hominid]]s, the [[Draconic]]s and the [[Celephalopod]]s. 
 - Flood basalt events are responsible for the [[Hominid]] legends of Hell
 - the sinking of Atlantis, an empire formed mainly of marine life and some very hippy [[Hominid]]s, caused the ten plagues of the Nile

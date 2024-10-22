@@ -1,11 +1,12 @@
 ---
 tags: 
-parent docs: "[[Magic System]]"
+parent docs:
+  - "[[Magic System]]"
 sibling docs: 
 child docs: 
 date created: 2024-09-30T01:05:00
-last updated: 2024-09-30T01:05:00
-media: 
+last updated: 2024-10-16T01:05:00
+media:
 ---
 
 # [[Metasign]]
@@ -26,7 +27,10 @@ the sign that is opposite to one of the properties, the number of inverse signs 
 the sign that is perpendicular to its origin, concept that binds two signs together, the union of a sign and its opposite, a perpendicular will always be more or less complex than the [[Sign]] and its inverse, never equally complex
 
 # [[World Sign]]
-the spirits formed from a [[Celestial Bodies]], they are slower than other forms of spirits, take the form of large fractal structures within the [[Complex Plane]]. They are not considered alive as the celestial bodies that they are bound to do not have life. Gas Giants seem to be more dynamic with their shifting atmosphere and electromagnetic fields, but many tectonically active planets are also dynamic 
+the [[Sign]] formed from a [[Celestial Bodies]], they are slower than other forms of spirits, take the form of large fractal structures within the [[Complex Plane]]. They are not considered alive as the celestial bodies that they are bound to do not have life. Gas Giants seem to be more dynamic with their shifting atmosphere and electromagnetic fields, but many tectonically active planets are also dynamic 
 
-## [[World Mantle]]
+## World Mantle
 The result of an Electromagnetic and Signa field that is generated from a world 
+
+## World Scar
+Are made when a [[Planetoid]] is hit by a another similarly sized [[Object]] 

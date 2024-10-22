@@ -19,7 +19,7 @@ a type of life that has evolved in all 5 dimensions, in the ergosphere of [[#Dar
 - A class of organisms that make up over 90% of the biomass in the ergosphere of dark stars, who experience all of time simultaneously, Half of the species are microorganisms and they live within the water, forming a Lovecraftian super organism (?)
 
 ### Space bacteria (N/P)
-accelerate to near the speed of causality using light, live in [[Stellar Atmosphere]], notably in the [[Inter-Planar Medium]], feeding off of the high amount of energy through space photosynthesis for gamma rays, often migrating between trojans and asteroid belts in a system to follow favorable solar winds
+accelerate to near the speed of causality using light, live in [[Stellar Atmosphere]], notably in the [[Inter-Planar Medium]], feeding off of the high amount of energy through photosynthesis for gamma rays, often migrating between trojans and asteroid belts in a system to follow favorable solar winds
 
 # [[World Spirit]]
 each world accumulates [[Signa]] as it grows larger, which then settles into a configuration based off of the properties of the world

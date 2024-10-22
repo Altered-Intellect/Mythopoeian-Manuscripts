@@ -1,11 +1,12 @@
 ---
 tags: 
-parent docs: "[[Magic System]]"
+parent docs:
+  - "[[Magic System]]"
 sibling docs: 
 child docs: 
 date created: 2024-09-30T01:31:00
-last updated: 2024-09-30T01:31:00
-media: 
+last updated: 2024-10-16T01:31:00
+media:
 ---
 
 ## [[Energetic Binding]]
@@ -58,9 +59,9 @@ a neutral spirit binding. this is used to give the system or object the properti
 - Making a flaming sword through enchanting it with a fire spirit vs, binding the fire, suspending it within the complex plane, the output is similar, but the process is different and requires different knowledge
 
 ## [[Planar Binding]]
-link a system to one or more [[Realm]](s)
+link a [[System]] to one or more [[Realm]](s)
 
 When something from one realm enters another, all the rules for other realms collapse at the speed of causality for that realm from the origin of the binding, these collapses often form particles or disturbances in electromagnetic, or gravitational fields 
 ### [[Elemental Field Binding]]
 a binding that allows the input on energy and outputs a field that attracts or repels a specific element, most effective on noble gasses and nonreactive elements but at high enough energies can manipulate any element
-- Supercritical fluids, when bound, make up a field of the material
+- Supercritical fluids, when bound, make up a field of the material, energy fluctuations in the field produce particles entirely made of [[Signa]], which behave exactly like the base element with much less energy

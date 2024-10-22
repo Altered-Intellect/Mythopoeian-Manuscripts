@@ -17,7 +17,7 @@ It is a place where things from mundane reality are represented. The more comple
 - spirits can form from complex use of energy that living things disperse, the appearance of these spirits reflect how the energy is used, with the most influence originating from the metabolism of the living being (ATP appears like smoke and embers, plant like
 
 # [[Location]]
-
+[[Realm]](s) that have a spatial dimension
 ## [[Realm of the Eclipse]]
 - exclusionary realm of [[Sol]], connects all eclipses and midnights into a single "place". It is the earth and Theia without the sun, a cold a desolate realm without light. The only heat coming from the earth itself. The moon hangs in a single place in the sky without its halo, always a broken ring when not an eclipse 
 ## [[Elsewhere Wood]]
