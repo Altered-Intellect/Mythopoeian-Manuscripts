@@ -1,6 +1,15 @@
-
-
-## [[Book]]
+---
+tags:
+  - object
+parent docs:
+  - "[[Object]]"
+sibling docs: 
+child docs: 
+date created: 2024-10-27T16:32:00
+last updated: 
+media:
+---
+## Book
 
 ### [[The Blade of Truth]]
 a collection of prose on the art and philosophy of learning, study, and practice

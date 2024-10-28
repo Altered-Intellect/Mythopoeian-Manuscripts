@@ -1,11 +1,13 @@
 ---
 tags: 
-parent docs: "[[Magic System]]"
-sibling docs: "[[Sign]]"
+parent docs:
+  - "[[Magic System]]"
+sibling docs:
+  - "[[Sign]]"
 child docs: 
 date created: 2024-10-01T01:09:00
-last updated: 2024-10-01T01:09:00
-media: 
+last updated: 2024-10-22T01:09:00
+media:
 ---
 ### [[Meta interaction]]
 the interactions between the types of [[Signa particle]](s) are how [[Binding]](s) form

@@ -11,12 +11,12 @@ media:
 # [[Cosmic Weave]]
 our universe is describes as a web of galactic super-clusters, in this universe, the shape of this web is more regular and has sections that behave similarly to fractals like waves, repeating or retaining a predictable structure
 - the shape of the weave is due to the electromagnetic interactions between matter and the [[#Inter-Planar Medium]] affecting the macro scale structures of the universe 
-# [[Galaxies]]
+## [[Galaxies]]
 high Signa galaxies are much smaller and spin much faster
 
-## [[Galactic Arm]]
+### [[Galactic Arm]]
 
-## [[Galactic Sector]]
+### [[Galactic Sector]]
 Crucible of the Cosmos: a place in the galaxy where most stars are reborn and mega structures are forged, many solar systems and home worlds orbit this place as it is a center of intra-galaxic trade, migration, and power
 
 # [[Non-Stellar System]]
@@ -132,17 +132,17 @@ the [[Government facility]]'s sister location, a bunker located in the desert, i
 #### [[Nebos' World Tree]]
 because of the [[Signa Void]] that prevents stable bindings within the system, Thalasia's world tree isn't a living thing, instead an artificial construct created by the 'sapient species' occasional interactions with Signa and bindings when developing language and technology, these inscriptions are set within the whole structure and are a preserved record of Signa's interaction with Nebos.
 - their world tree appears as a plateau of stone, inscribed with the True names and bindings of the people who have bound with Signa
-- as the species develops, the plateau of stone becomes a pillar, then to a large tower that extends seemingly endlessly into the [[#Inter-Planar Medium]], and is woven with a sprouting world tree as more and more species start incorporating Signa into their biology, this tower is used as a space port for those travelling to and from [[Signa Star]](s)
+- as the species develops, the plateau of stone becomes a pillar, then to a large tower that extends seemingly endlessly into the [[#Inter-Planar Medium]], and is woven with a sprouting [[World Tree]] as more and more species start incorporating Signa into their biology, this tower is used as an interstellar port for those travelling to and from [[Signa Star]](s)
 ## [[Sol]] 
 K class star, Signa-matter ratio of 9.23, high enough for it to be considered a failed [[Signa Star]]
 ### [[Terra]]
 1.42 G
->Terrans, children of Gia. The most feared of the Celestial Pantheon
+>Terrans, children of Gaia. The most feared of the Celestial Pantheon
 
-this planet has a similar amount of water content to earth, but only 50% of the surface is covered in oceans as most of the water is held within ice caps, the large ecosystems like the [[#Arboreal basin]](s) and in [[#Deeplakes]].
+this planet has a similar amount of water content to earth, but only 66% of the surface is covered in oceans as most of the water is held within ice caps, the large continent spanning ecosystems like the [[#Arboreal basin]](s) and within the crust of the planet, and the ecosystem of the [[#Deeplakes]].
 the planet is a living system, with life affecting the planet as much as the planet affects life,
-Coal and oil does not exist on this planet so even though humans were sufficiently advanced, the industrial revolution didn't happen in the same way
-in the wider realms of the cosmology though, all life from [[Terra]] is perceived as extreme and dangerous or strange. the planet has 1.42 times the gravity of earth and has very chaotic weather patterns due to how the magic system interacts with the atmosphere and the various other bodies in the solar system. the tides are also unpredictable due to the giant rings the equally giant moon has. the planets ecosystems cover every inch of the planet, from the super Signa saturated [[Pearlsand Sea]](s) to the poles of the planet that are home to [[Blue-ice Glacier]](s) that fall hundreds of degrees below zero. not to mention the [[Arboreal basin]](s) that fill entire valleys with overgrowth and millions of species that can and will kill you. and yet people insist on building cities on or near each one, think fantasy deathworld that the first aliens had no idea how to approach yet alone classify.
+Coal and oil does not exist in significant amounts on this planet so even though the [[Hominid]] species (and later the develop similar principals that led to the industrial revolution, the progress is not powered by fossil fuels
+in the wider realms of the interstellar community, all life from [[Terra]] is perceived as extreme, dangerous, strange or most often a combination of the three. the planet has 1.42 times the gravity of earth and has very chaotic weather patterns due to how the magic system interacts with the atmosphere and the various other bodies in the solar system. the tides are also unpredictable due to the giant rings the equally giant moon has. the planets ecosystems cover every inch of the planet, from the super Signa saturated [[Pearlsand Sea]](s) to the poles of the planet that are home to [[Blue-ice Glacier]](s) that fall hundreds of degrees below zero. not to mention the [[Arboreal basin]](s) that fill entire valleys with overgrowth and millions of species that can and will kill you. and yet people insist on building cities on or near each one, think fantasy deathworld that the first aliens had no idea how to approach yet alone classify.
 - Take earth and crank it up to eleven with the craziness
 - because of [[Sol]]'s high [[Signa-mass]] ratio, the Solar winds contain information contained within hyperbolic wormhole at its center, allowing bridges to be formed across worlds 
 - Terra's Aurora is strong enough to bridge between all three [[Realm]](s)
