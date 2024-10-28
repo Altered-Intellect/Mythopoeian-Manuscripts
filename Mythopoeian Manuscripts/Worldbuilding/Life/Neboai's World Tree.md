@@ -9,4 +9,4 @@ last updated:
 media:
 ---
 # Pillar
-because [[Nebos]] is within the [[Signa Void]] that dominates the system, for most of its existence [[Life]] on Nebos has not germinated a [[World Tree]]. Despite this the properties of [[Signa]] still affect the Nebos
+because [[Nebos]] is within the [[Signa Void]] that dominates the system, for most of its existence [[Life]] on Nebos has not germinated a [[World Tree]]. Despite this the properties of [[Signa]] still affect the Neboai and their development  
