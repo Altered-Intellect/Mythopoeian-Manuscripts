@@ -276,23 +276,25 @@ seas of magma between the more solid rock of the crust, formed from the volcanic
 #### [[Magnetic meadow]]
 a place where fields of iron rich grass sway in the changing magnetic fields of the planets molten core, it is located deep underground near the mantle, located underwater in giant patches of water below the crust of the earth
 ### [[Arboreal basin]]
-Very large valleys that are completely consumed by vegetation creating an "ocean" of forest. The trees get larger the deeper into the valley, there are often thousands of undiscovered species, places, and secrets hidden within them
-effectively walk across the ocean but the deeper you went, the darker it would be and the animals would get progressively scarier and more dangerous and instead of whales there’d be giant deer
-The forest gets so impossibly dense that the trees that die cant fall to the forest floor and instead are infected and reused by the surrounding plants creating a complex maze of roots, trunks, and branches, that is impossible to distinguish each from the other, this forest is so huge that it has distinguishable biomes and layers to it ranging from treetops that scrape the sky to root systems that split bedrock
+forests so large and old that they contain as much water content as a sea, often filling large valleys. the trees get larger the deeper into the valley, there are often thousands of undiscovered species, places, and secrets hidden within them
+effectively walk across the sea but the deeper you went, the darker it would be and the animals would get progressively scarier and more dangerous. 
+The forest gets so incredibly dense that the trees that die cant fall to the forest floor and instead are infected and reused by the hungry shoots of neighboring trees. the remnants of these dead trees are consumed by the surrounding plants creating a complex maze of roots, trunks, and branches, that is difficult to distinguish each from the other, 
+this forest is so huge that it has distinguishable biomes and layers to it ranging from treetops that scrape the sky to root systems that split bedrock
 tides are matched to the day night cycle, in the day the leaves of the tree tops extend up in competition with the trees surrounding it, moving large amount of winds into the lower canopy
 Coal peat and other byproducts of decay are rare in areas with high signa life as they are often burnt up by [[Spirit]] ecosystem in the area and Bound that use it in their [[Binding]](s)
-Arboreal basins are powered by a carbon cycle that reuses energy, there is a lot of coal in the shallows as the cycle is often less efficient or not complete. This cycle includes bacteria that digest and break down oils, and large carbon molecules 
-Trees don't die, they are reborn as clones or offspring of nearby trees. The dead tree is hollowed out by the agressive territorial part of the evosystem. The wild life feed the carbon cycle and then after it is then infested with hundreds and hundreds of seeds that sprout and compete for dominance, the most successful of which perform gene transfers and either get consumed by the main tree or merge with it
+Arboreal basins are powered by a carbon cycle that reuses energy. This cycle includes bacteria that digest and break down oils, and large carbon molecules 
+Trees don't die, they are reborn as clones or offspring of nearby trees. The dead tree is hollowed out by the agressive territorial part of the ecosystem. The wild life feed the carbon cycle and then after it is then infested with hundreds and hundreds of seeds that sprout and compete for dominance, the most successful of which perform gene transfers and either get consumed by the main tree or merge with it
 - life time of 100 k to 400 k years
-- Layer of the arboreal basin that is filled with carnivorous plants, most of which are completely black, another that is mainly symbiote that feed off the roots of the great wood trees, most of the plants are stark white because of the lack of chlorophyll. Layer above the cannibal one has plants That are light green on the underside and dark or black on the top
+- Layer of the arboreal basin that is filled with carnivorous plants, most of which are completely black, another that is mainly symbiote that feed off the roots of the great wood trees, most of the plants are stark white because of the lack of chlorophyll. Layer above the cannibal one has plants That are light green on the underside and dark or black on the top to mimic the lighting of the forest around them
+
 #### [[Brush shallow]]
 plains that resemble normal forests surrounding most of the [[#Arboreal basin]]
-- the "shore" of the basin
-#### [[Whitevine way]]
-paths made through the shallower parts of the 
+- the "shore" of the basin, often called the "forests shadow" by the cultures that are aware of the depth of the arboreal basins
+- there tends to be deposits of coal in the shallows as the carbon cycle is often less efficient or not complete
 #### [[Arboreal Abyss]]
 The deepest part of an Arboreal basin, completely blocked off from any light. Most species of fungi, and lichen live in the arboreal abyss and many have symbiotic relations with the plant species that live in the deep. Bioluminescence is prevalent but not common as making yourself visible is as much of an advantage as it is a disadvantage. 
 - animal, plants and fungi feed of of the sap, leaves, and bark of the higher levels
+- has a fungal layer that is stretches from the low light areas to the rooted bedrock feeding on the decaying plant matter of the basin, forming parasitic and symbiotic relationships with the rest of the biosphere
 
 ### [[Life Well]]
 an area with a high concentration of [[Signa]] with various levels of energy levels, this creates a tapestry of entropy and emergence that life and [[Spirit]](s) can use to feed off of and accelerate their life cycles 
@@ -305,8 +307,10 @@ as species and their societies expand into space they start constructing mega st
 a table at the center and a crystal ball placed on top but the oracle has extremely long robes that cover most of the room, wrapping and draping over everything in the small space. The oracle herself is hidden in the shadows, wearing a hood over her face, the cloth has gate patterns on it and pinpoints of light will glow on the cloth mapping the stars in the sky, when the oracle is performing their rituals the cloth is perfectly opaque but it seems to fade in and out of existence especially when you have angered the oracle, each of the flecks of light are from the stars they represent 
 	- the room is bound to the [[Cosmic cave]](s)
 
-### [[Hollow Highway]]
-A type of [[Holloway]] that runs through giant dense forests, the longer the path has been use the larger and deeper the holloway will be, the largest have stones inlaid into the paths sides to prevent the sides of the path from collapsing, the oldest man made holloway is ten feet underground and is around eight feet wide, the stonewalls on the side of the path are overgrown with lichens, vines and roots, this holloway runs through the densest forest known blocking out almost all sunlight from the path and in some areas the branches of the trees are braided together to prevent water from reaching the paths floor, the paths that have been used for centuries are sacred ground with a few guarded by mythological beast, protectors of the forest, or religious factions.
+### [[Holloway]]
+A type of forest path that runs through the dense growth of forests, the longer the path has been use the larger and deeper the holloway will be, the largest have stones inlaid into the paths sides to prevent the sides of the path from collapsing, the oldest man made holloway is ten feet underground and is around eight feet wide, the stonewalls on the side of the path are overgrown with lichens, vines and roots, this holloway runs through the densest forest known blocking out almost all sunlight from the path and in some areas the branches of the trees are braided together to prevent water from reaching the paths floor, the paths that have been used for centuries are sacred ground with a few guarded by mythological beast, protectors of the forest, or religious factions.
+#### [[Whitevine way]]
+a [[Holloway]] made through the shallower parts of the [[Arboreal basin]]
 ### [[Sword graveyard]]
 Are made as they are places where people would retire their swords after they have been broken or have served their use. The most popular way of decommissioning a sword is to have it enshrined or put in a display but that is often expensive so people often just stick it into a gravestone or have it recycled. If a sword can’t afford a proper death it is often put in a dump or put in a mass sword graveyard. Battles often birth graveyards, battle worn swords are seen as cursed if not kept with their wielder, people are usually buried with their sword
 ### [[Libraritorium]]

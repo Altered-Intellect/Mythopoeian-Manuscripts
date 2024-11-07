@@ -112,10 +112,12 @@ The second voice is the alignment of the silence and the structure, an understan
 mundane reality can be split into four main forces gravity, electromagnetism, the strong force and the weak force, in [[Mythopoeia]], these forces form "planes" of reality, the complex plane is a fifth plane to reality that is formed from the properties of [[Signa]] and [[Binding]],
 [[Life]] affects the complex plane even without energy in [[Signa Field]], the higher density the closer the bond [[Spirit Realm]] has with the physical thus increasing the amount of Signa that can exist in an area  
 
-When an objects contained another system, that system is embedded with an amount of Signa and rotated into the complex plane, this allows spirits to sense and interact this new system in unique ways
+When an objects contained another system, that system is embedded with an amount of Signa and rotated into the complex plane, this allows [[Spirit]](s) to sense and interact this new system in unique ways
+
 - Inspired a lot by myths, legends and fairy tales, the fae/spirit realm
 - this complex plane gets exponentially smaller the further the distance from the mundane dimensions 
 - the more [[Signa]] is bound to a system the further that system can travel into the complex plane
 - there is a limit to how far certain elements can go into the complex plane (if you force it all of the hydrogen gets ripped from your body and then scattered across the universe) 
 - the more mass something has the more energy it takes to move it, hydrogen is the easiest element to move through the complex plane, 
 - the entirety of the complex plane is rotating, making the the location of mundane reality within the complex plane change overtime, this rotation is the movement of Signa
+

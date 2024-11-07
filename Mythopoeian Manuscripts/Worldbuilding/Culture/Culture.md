@@ -13,7 +13,7 @@ media:
 ## [[Terran Cultures]]
 the cultures that have originated from [[Terra's World Tree]]
 ## [[Neboai Cultures]]
-the cultures that have originated from [[Neboai's World Tree]]
+the cultures that have originated from [[Nebos' World Tree]]
 # [[Society]]
 a [[Culture]] over a [[Location]]
 

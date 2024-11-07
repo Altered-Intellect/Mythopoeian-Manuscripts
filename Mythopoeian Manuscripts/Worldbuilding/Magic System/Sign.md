@@ -33,5 +33,51 @@ the [[Sign]] formed from a [[Celestial Bodies]], they are slower than other form
 ## World Mantle
 The result of an intersection of the Electromagnetic and [[Signa Field]] that is generated from a world 
 - the world mantle is most prominent in gaseous worlds and rocky worlds with active tectonic activity
-## World Scar
+## [[World Scar]]
 Are made when a [[Planetoid]] is hit by a another similarly sized [[Object]] 
+
+# [[Sign of Signa]]
+a sign of the [[Signa Field]], represents the structure of the [[Sign]] 
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+## [[Sign of Ikon]]
+## [[Sign of Psynon]]
+## [[Sign of Lekton]]
+# [[Sign of Space]]
+sign of distance and length, the medium of any spacial dimension, origin of location and position
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+## [[Sign of Rotation]]
+sign of spin, rotations within three dimensional space
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+## [[Sign of Motion]]
+sign of velocity, vectors within spacetime 
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+# [[Sign of Time]]
+sign of the temporal dimension, the origin of fate and entropy, the precessing wheel
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+# [[Sign of Mass]]
+sign of substance, in the from of mass, energy or the infinite states in-between
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+## [[Sign of Fermion]]
+## [[Sign of Boson]]
+# [[Sign of Charge]]
+sign of symmetries and structure, the logic of abstract mathematics and metaphysics
+	[[Subject]] :
+	[[Signified]] :
+	[[Signifier]] :
+### [[Sign of Spectrum 〰]]
+sign used to interact with the entirety of a spectrum, isolate frequencies, and manipulate wave-forms
+	[[Subject]] : repeating oscillation in a medium, such as a fluid or solid, or a field like electromagnetism, or spacetime
+	[[Signified]] : 
+	[[Signifier]] : 
