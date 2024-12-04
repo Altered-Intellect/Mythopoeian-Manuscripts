@@ -10,25 +10,26 @@ a foul smelling muck that is composed of ash, water, and bacteria from a corpse 
 or grained steel, is a wood harvested and treated from the trees of the [[Iron-wood]]
 
 ### [[Blood]]
-a system of organs in communication, defense, and connection
+>a system of organs in communication, defense, and connection, that internal ocean we brought from the seas
 - mammalian blood : contains iron, is often burgundy or bright red depending on it oxygenation, hemoglobin is contained within cells
 - celephalopd blood : contains copper, is blue or clear depending on oxygenation, hemocycan is not contained within cells and is instead free floating
 - Insect blood is dark brown and looks dark yellow when in low concentrations
 - arachnine blood : ranges from purple to brown depending on oxygenation and concentration
+- draconic blood : 
 ### [[Excretion]]
 
 #### [[Tapestry silk]]
 a type of silk that comes from the cocoons of [[Illutionist's Butterfly]], the silk has the properties has the ability to retain information of the light and around it, when information is put into the silk it gains tiny indentations that stores the information of that light, this acts as a sort of holographic etching encoding images, this can be read and interpreted, because of these properties the silk can retain information from [[Prophetic binding]](s)
 valued for its ability to absorb the pattern of the light around it, making it able to display images of the things around it or store patterns of light from some other source 
 ##### [[Shadow film]] 
-A thin cloth material made from a type of sign-bound [[#Tapestry silk]] that can deflect light in any direction, the cloth is bound to a [signa-conductive](Signa Conductivity) that allows control over the angle and polarity of the deflected light 
+A thin cloth material made from a type of sign-bound [[#Tapestry silk]] that can deflect light in any direction, the cloth is bound to a material that has high [[Signa Conductivity]] that allows control over the angle and polarity of the deflected light 
 Shadow film is used in the first projected movie films
 
 ## Crafted
 Material made by an organism, either externally via tool manipulation, or tangentially through interactions with it environment
 
-### __ 
-A family of clays that can store chemical reactions and vary in degradation and efficiency on release The storing tempers the clay into ceramics that release their reaction on breaking. The surface of the break releases the reaction. These ceramics degrade over time slowly releasing the stored energy as heat light and high signa debris
+### Combustion Clay
+A family of clays that can store chemical reactions and vary in degradation and efficiency on release. The storing if the energy tempers the clay into ceramics that release their reaction on breaking. The surface of the break releases the reaction. These ceramics degrade over time slowly releasing the stored energy as heat light and high signa debris
 [[Liquid sharpening]] - a material that primes any self-repeating structure to grow given the proper material and energy
 ### [[Blue-Purple brick]]
 a type of stone that both resists and reflects the effects of the Signa-dense currents of the [[Pearlsand Sea]]

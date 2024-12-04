@@ -27,8 +27,8 @@ the Signa will create a [[Sign-System]] unique to that world
 - each world has a unique way that [[Signa]] behaves, signa changes when bound to a system, then the same is true for a celestial object, because if this, each world has its own local laws of semantics and semiotics that affect the laws of physics, each [[World Tree]] has a unique structure, and each system has a harmony in which each body in the system 
 - The medium of the [[World Spirit]](s)
 ## [[World Tree]]
-the life of a celestial body represented as a spirit in the [[Complex Plane]] 
-a spirit that represents the gene pool of all life on the planet in the form of a massive tree made of folded space time, the living biosphere of the planet. it exists through the whole lifetime of the planet, in all stages of life simultaneously, its branches through all the worlds realms and eras, holding the world together with its roots
+the life of a celestial body represented as a [[Spirit]] in the [[Complex Plane]] 
+a spirit that represents the gene pool of all life on the planet in the form of a massive tree made of folded space time, matter energy, and signa that flow through the living biosphere of the planet. it exists through the whole lifetime of the planet, in all stages of its life simultaneously, its branches through all the worlds realms and eras, holding the world together with its roots
 each branch in the tree represents the separation of one species from another, making it fractal like in nature, 
 the world tree exist entirely within the Complex Plane and affects all of the realms inside of it, 
 the planet is a living system with life affecting it as much as the it affects life, 
@@ -39,8 +39,14 @@ world trees are bound to their planets [[World Sign]] creating a complete system
 - the "complex" branches record the types of [[Binding]](s) that a population has overtime
 - the genetic branch is the classical part of the tree of life in the real world, as it records the change in genetic composition overtime
 ### [[Terra's World Tree]]
->its bark is made of reflected light throughout its life, it’s wood is a deep brown almost black with reflective indents in the grain, which is wrinkled and wavy.  You could see through it and yet it's surface seemed opaque. Simultaneously soild and ethereal, physical and metaphorical. With a dawn of realization they figured they where witnessing a True Sign, the system, signified, and signifier contained in one, this was the Erd Tree
+>its bark is made of reflected light throughout its life, it’s wood is a deep brown almost black with reflective indents in the grain, which is wrinkled and wavy.  You could see through it and yet it's surface seemed opaque. Simultaneously solid and ethereal, physical and metaphorical. With a dawn of realization they figured they where witnessing a True Sign, the system, signified, and signifier contained in one, this was the Erd Tree
 
 the [[World Tree]] of [[Terra]]
 it is one of the largest world trees in the known universe, with the highest recorded variation in Signa density and biodiversity. 
-The tree has branches for both carbon and silicon [[Life]]. the carbon branch has no elemental branches other than carbon-phosphorus, but the silicon branch has two, silicon-magnesium, and silicon-phosphorus. Life initially arose from the silicon branch but was soon out competed for space by the carbon branch as the planet cooled. Despite this, due to its interactions with the magic system, silicon Life survives deep within the mantel of the planet
+The tree has branches for both its carbon and silicon [[Life]]. the carbon branch has no elemental branches other than carbon-phosphorus, but the silicon branch has two, silicon-magnesium, and silicon-xenon. Life initially arose from the silicon branch but was soon out competed for space by the carbon branch as the planet cooled. Despite this, due to its interactions with the magic system, silicon life survives deep within the mantel of the planet and has given birth to many branchs of [[Possessor Spirit]] the most notable of which is [[Demon]](s)
+
+### [[Nebos' World Tree]]
+> a plane of some dark  earth, no less like heedless stone stretched from the very foundations of the world to the horizon, each ridge in its surface the sign engraved with it binding, the true source of the unkown
+
+the [[World Tree]] of [[Nebos]]
+due to the [[Signa Void]] that dominates the system, there is not central [[Spirit]] of [[Life]] 

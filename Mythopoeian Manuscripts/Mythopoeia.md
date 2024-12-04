@@ -18,10 +18,13 @@ All key tags are either put in parentheses or in brackets, i'm also toying with 
 - [[]] : a link the document with that title 
 - [[#]] : a link to a heading
 
-# [[Worldbuilding]]
-
 # [[Writing]]
+
+# [[Worldbuilding]]
+## [[Magic System]]
 
 # [[Media]]
 
-# [[Referances]]
+# [[Templates]]
+
+# [[References]]

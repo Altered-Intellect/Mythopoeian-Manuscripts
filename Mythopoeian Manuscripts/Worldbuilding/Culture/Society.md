@@ -1,10 +1,12 @@
 ---
 tags: 
-parent docs: "[[Plot]]"
+parent docs:
+  - "[[Culture]]"
+  - "[[Location]]"
 sibling docs: 
 child docs: 
-date created: 2024-09-29T17:20:00
-last updated: 2024-09-29T17:20:00
+date created: ""
+last updated: 
 media:
 ---
 (document lacks the proper depth to be displayed)

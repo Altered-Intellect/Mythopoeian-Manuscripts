@@ -12,6 +12,12 @@ media:
 ---
 # T-0 : Formation of the Universe
 
+- very few stars have been created and most of the universe is suspended hydrogen and helium gas 
+## T-100/700 million : The age of steam and humus
+- a time within the Mythopoeian Manuscripts that roughly coincides with a period of time in the real world where the average temperature of the universe was in the range for water to be a liquid but happens later and lasts longer due to the slower cooling of the universe
+- this era is the origin of life and the bed of soils in which all the trees of life bury their roots, it is the primordial connection that 
+- this was not random chance as the signs and spirits that came before it longed to rest and flee from the fires of creation. These primordial spirits used the new signs of the world mantel to keep worlds at optimal temperatures, creating the first garden worlds of bacteria and fungus 
+- most life was living organic compounds and single cellular life that lived in water rich soil that was abundant throughout the universe 
 # T-6.63 billion : Formation of [[Hearth]]
 ## T-6.634 billion : Migration of Leviathans to [[Hearth]]
 ## T-6.634005 billion : Formation of Signavoid enveloping [[Hearth]]'s system

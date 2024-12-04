@@ -89,8 +89,6 @@ media:
 ## Clothes 
 ### Fashion
 
-## Shelter
-### Architecture
 ## Tools
 ### Weapons
 ### Food Processing

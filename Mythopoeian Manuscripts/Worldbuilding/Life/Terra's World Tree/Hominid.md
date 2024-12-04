@@ -1,11 +1,16 @@
 ---
 tags: 
 parent docs:
-  - "[[Culture]]"
+  - "[[Terra's World Tree]]"
 sibling docs: 
 child docs: 
 date created: ""
 last updated: 
 media:
 ---
-(document lacks the proper depth to be displayed)
+# [[Society]]
+
+## [[Culture]]
+
+### [[Technology]]
+## [[Location]]

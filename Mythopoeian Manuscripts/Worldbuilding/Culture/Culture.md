@@ -10,13 +10,28 @@ last updated: 2024-10-16T17:24:00
 media:
 ---
 # [[Life]]
-## [[Terran Cultures]]
-the cultures that have originated from [[Terra's World Tree]]
-## [[Neboai Cultures]]
-the cultures that have originated from [[Nebos' World Tree]]
+
+## [[Terran Culture Tree]]
+the cultures that have originated from [[Terra]] and its [[World Tree]]
+The force of Culture has a wide reach on the world of [[Terra]] as the Cultures of Terra have their roots in many species across the planet. from spirits to space dust. The main three Cultural forces come from three species groups, the [[Hominid]]s, the [[Draconic]]s and the [[Celephalopod]]s. 
+- Flood basalt events are responsible for the [[Hominid]] legends of Hell
+- the sinking of Atlantis, an empire formed mainly of marine life and some very hippy [[Hominid]]s, caused the ten plagues of the Nile
+The Way a culture views itself in the real world reflects in the reality of the Cultures within the world of [[Terra]]
+
+Cultural Development of [[Binding]] and [[Sign Manipulation]] throughout the history of Terra
+The use of [[Signa]] follows a similar path to technology in energy usage, it starts out with using the energy from an individuals body to do simple tasks and then it slowly transfers to using more elaborate tools, using the environment as a source of work. The complexity and energy usage of theses tools and their interaction only grows bigger.
+Most simple [[Sign Manipulation]] uses internal energy sources to power the bindings, but more advanced spells are about using the environment and dedicated high density fuel sources for power as well as being more complex and precise 
+writing
+## [[Neboai Culture Tree]]
+the cultures that have originated from [[Nebos]] and it [[World Tree]]
+The Cultures of Neboai have a single origin within the [[High Glider]] species, the single pillar of language and societal structure, the one of many responsible for the world
 # [[Society]]
 a [[Culture]] over a [[Location]]
+### [[Shelter]]
 
+#### [[Architecture]]
+styles
+## [[Location]]
 # Cultural Relationship
 ## [[Intercultural Relationship]]
 #### [[Cultural Alliances]]
@@ -26,9 +41,9 @@ a [[Culture]] over a [[Location]]
 ### [[Social characteristics]]
 ## [[Intracultural Relationships]]
 
-A culture with one book, all copies are connected to each other allowing for communication across vast distances. the the binding for the spell is written into the physical binding of the books, allowing any book that is bound in a specific way to have access to the words. Changes to the book are regulated and rare, and communication is rarely used as it requires a lot of ink and paper. It is a community activity to watch new sections being written, there are no authors and anyone who wants to claim authorship has there book and name forcibly removed
+A culture with one book, all copies are connected to each other via a [[Binding]] allowing for communication across vast distances. the the binding for the spell is written into the physical binding of the books, allowing any book that is bound in a specific way to have access to the words. Changes to the book are regulated and rare, and communication is reserved for syncing rituals across cast distances as it requires a lot of ink and paper. It is a community activity to watch new sections being written, there are no authors and anyone who wants to claim authorship has there book and name forcibly removed from its record, effectively removing them from the 
 ### [[Social Structure]]
-## [[Hierarchy]]
+## [[Cultural Hierarchy]]
 ### [[Emergence]]
 ### [[Age]]
 ### [[Gender]]
@@ -59,13 +74,14 @@ Trade
 Profits
 #### [[Currency]]
 
+The medium of a currency is a product of the environment of a culture and its values
 flats - thin regular cutouts of a material, often a metal, wood, or stone
 - value determined by material and notches 
 - favor manufacturing, often forming as a result of a culture switching from chips
 chips - thin differently shaped cutouts of a material, can be shaped into almost anything, but are often imagery relevant to the societies religious group(s) and political figures
 - moon phases
 - fingers 
-- triangle to septigon
+- usually limited to triangle to septigon
 - plants (fruits, leaves, stem, )
 knots - strings tied with knots denoting value, are often decorated with stones and metals
 - the material and make of the rope affects the value
@@ -94,12 +110,12 @@ writings - when the ability to read and write is a rare gift, even simple things
 - a short letter of thanks 
 - blessing 
 - secret 
-
+cattle - 
 ##### [[Currency Structure]]
 how many different values a type of currency has and how they are distinguished is set by the unit of value, the direct value of the material, and the frequency that the value type is used 
 linear means the 
 log 
-many cultures have several systems of currency that are used for the trade of different things 
+many cultures have several systems of currency that are used for the trade of different things (i.e. cattle is use to trade food and dowrys, shells are used for materials and debts)
 ### [[Income]]
 ### [[Trade]]
 ## [[Unicultural Relationship]]
@@ -110,10 +126,13 @@ many cultures have several systems of currency that are used for the trade of di
 ## [[Life course]]
 ## [[Communication]]
 
-- Tilting your head/manipulator up is a more universal sign of “yes” and tilting it down a sign or “no” as species with short or no necks don’t have the ability to nod or swivel their head
-- it is appropriate to tell some one how you feel about them and how you view them and how they act 
-- Culture where it is common for people who are close to ask each other "how are we?" which is an invitation to discuss how each person views the other and their relationship to them as a form a small talk, eg. "how have i been?" "i have been thinking of (a detail about their life), do you of me?" "you have been well to me"
+- Tilting a head/limb up is a more universal sign of “yes” and tilting it down a sign or “no” as species with short or no necks don’t have the ability to nod or swivel their head
+- it is appropriate to tell some one how you feel about them and how you view them and how they act as a sort of social greeting 
+- Culture where it is common for people who are close to ask each other "how are we?" which is an invitation to discuss how each person views the other and their relationship to them as a form a small talk, eg. "how have i been to you?" "i have been thinking of (a detail about their life), do you of me?" "you have been well to me, have I?"
 ### [[Symbol]]
+blue and red horses (symbol) 
+- representations of the two seasons (the falling season; summer to fall, and the rising season, winter to spring)
+- the blue horse is the falling season and the red horse is the rising season
 ### [[Linguistic Medium]] 
 Somatic : using the body of an organism to communicate information 
 - Gesture (movement of the body)
@@ -124,6 +143,7 @@ Environmental : using the environment to communicate information
 - Surface vibrations (granular, woven, harmonic)
 - Topology (carving, holes, knots)
 Planar : using bindings to communicate information 
+- Thoughts 
 - 
 ### [[Language]] 
 - Language that has two variations, an informal spoken version with many local dialects, and a formal written language, with few dialects and variations in spelling
@@ -159,16 +179,22 @@ adopted languages from the [[Root 2 Dragon Language Tree]] and the [[Root 3 Huma
 ### [[Metaphor]]
 
 Sayings 
-- the eldest oak catches the lightning first
-- rest is sacred
+- the eldest oak catches the lightning first : the older someone is, the more likely have experienced tragedy
 - burning a teabag : trying to do something and failing to an almost impossible degree; taking something that would be nourishing or pleasant and destroying it in misplaced reverence and foolishness, putting off an easy task until it transforms into a disaster 
-- from the bottom of the rotting/rusting earth : curse referencing something so foul and deep that it can only exists far under the earth, something so bad it shouldn't be surfaced
+- from the bottom of the rotting/rusting earth : curse implying something so foul and deep that it can only exists far under the earth, something so bad it shouldn't be referenced/surfaced
 - by breaths relief : when something stressful passes or turns out to be not as bad
 - hardening knowledge : "the knowledge in the scrolls was brittle and soft, it needed to harden under the heat of a good analysis"
 - merchant tales and weed smoke : nonsense that has been embellished to the point where the information is useless
+- A test, a task and a half : this will be difficult and require a lot of time
+- waking the angel : the ruin and destruction that comes with trying to break a law
+- rest is sacred
 - my sweetening
+- Oh, petal...
 - did not reply with words
+- Only an insect expects a giant to watch his step.
+Exclamations
 - by the depths above
+- Sweet sweat and tears! 
 ## [[Socialization]]
 
 ### [[Humor]]
@@ -230,35 +256,33 @@ People train their spatial awareness using blindfolds, forcing themselves to use
 ### [[Music]]
 ### [[Visual Arts]]
 ### [[Performance]]
-### [[Stories]]
-#### [[Myth]]
+### [[Myth]]
+#### [[Stories]]
 #### [[Legend]]
 
-# [[Material]]
+# [[Object]]
+## [[Material]]
 
-## [[Food]]
+### [[Food]]
 Special medallions are served with rare meals and meals that contain foods that gift the consumer binding abilities 
-### [[Farming]]
+#### [[Farming]]
 Domestic species
 Hunted species
-### [[Cooking]]
+#### [[Cooking]]
 Ingredients
-## [[Clothes]]
+### [[Clothes]]
 fabrics
 materials
 skins
-### [[Fashion]]
+#### [[Fashion]]
 style
 theming
 influences
-## [[Shelter]]
-
-### [[Architecture]]
-styles
 ## [[Tool]]
 ### [[Weapons]]
 ### [[Food Processing]]
 ### [[Maintenance]]
+
 ## [[Technology]]
 ### [[Transportation]]
 ### [[Information]]
@@ -273,7 +297,7 @@ the types of measurements used in the cultures of [[Terra]], range in accuracy a
 - foot/palm : length of the average relevant segment of a limb such as a foot, palm, forearm, tail, tentacle, wing, knuckle, etc. 
 - bow-shot : the length an arrow fired out of standard make and model bow common in the area
 ##### [[Mass]]
-- branch - the weight of a tree branch of a specific length and diameter
+- branch - the weight of a tree branch of a specific species, length, and diameter
 - stone - the weight of a specific 
 ##### [[Current]]
 ##### [[Temperature]]
@@ -281,4 +305,5 @@ the types of measurements used in the cultures of [[Terra]], range in accuracy a
 - grains - 
 ### [[Automation]]
 
+# [[Sign]]
 

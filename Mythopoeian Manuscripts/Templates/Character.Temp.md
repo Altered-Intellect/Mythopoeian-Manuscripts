@@ -1,7 +1,8 @@
 ---
 tags:
   - character
-parent docs: 
+parent docs:
+  - "[[Characters]]"
 sibling docs: 
 child docs: 
 date created: 1999-12-31T23:59

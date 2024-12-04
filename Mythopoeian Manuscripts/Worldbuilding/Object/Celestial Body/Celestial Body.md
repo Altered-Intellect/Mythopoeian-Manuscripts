@@ -4,7 +4,7 @@ parent docs:
 sibling docs: 
 child docs: 
 date created: 2024-10-16T00:26:00
-last updated: 2024-10-16T00:54:00
+last updated: 2024-11-14T00:54:00
 media:
 ---
 # [[Stellar Body]]
@@ -16,5 +16,12 @@ the higher the ratio of Signa, the better the star acts as a hot spot for wormho
 
 # [[Planetoid]]
 a _planetoid_ is a celestial body that: 
-(a) has sufficient mass to maintain a gravitational hydrostatic equilibrium in a spheroid shape.
-(b) does _not_ undergo natural self-sustaining fusion at any point in its existence.
+1. has sufficient mass to maintain a gravitational hydro-static equilibrium in a spheroid shape
+2. does _not_ undergo natural self-sustaining fusion at any point in its existence.
+3. generates a magnetic field
+
+# [[Asteroid]]
+an asteroid is a celestial body that:
+1. is below the mass to maintain a gravitational hydro-static equilibrium in a spheroid shape
+2. does _not_ undergo natural self-sustaining fusion at any point in its existence.
+3. does not generate a magnetic field

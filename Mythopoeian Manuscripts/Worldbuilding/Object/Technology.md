@@ -10,12 +10,12 @@ media:
 
 ## [[Skeletal's Tavern Speaker]] (N/P)
 An anonymous public radio speaker that it's patrons can bind their voice to, popular with the undead, specifically skeletal's because of the ease of access to the speaker
-- The living are treated a bit like enemies and predators as many monster hunters tend to raid places like these 
+- The living are treated a bit like enemies and invaders as there is strong cultural conflicts between the living and the dead/ Many monster hunters tend to raid places of the dead
 ## [[Heating Element]]
 ### [[IRLED]]
-turns electrical current into IR radiation, i.e. heat
+turns electrical current into IR radiation, which in most cases is used for heat
 ## [[Gravity globe]]
-a globe made from [[#Optic Glass]] and a [planar binding mechanism](a type of device that used the [Complex plane] as method to bind itself to a realm) that is bound to any gravitational field around it, when the globe is rotated, the direction of gravity is aligned with the rotation, the strength of the gravitational field can be controlled using rotations within the [Complex Plane], these together give the user control of the gravitational field around them
+a globe made from [[#Optic Glass]] and a [[Planar binding mechanism]] that is bound to any gravitational field around it, when the globe is rotated, the direction of gravity is aligned with the rotation, the strength of the gravitational field can be controlled using rotations within the [Complex Plane], these together give the user control of the gravitational field around them
 the lens displays the system with the highest gravitational pull on the globes gravitational manipulation as a volumetric illusion
 - on the bottom of its base the words “the world is now in your hands, its placement is key” are engraved
 - can be used to make a space ship drive
@@ -24,7 +24,7 @@ a vial of liquid set in a wooden or stone base with some measured amount of sand
 - first iterations simply have a nucleation point, often a bit of silicates, on the bottom and marking on the side to measure, but as they become more precise, the shape of the glass and it volume, and temperature are taken into account and use to measure the atmospheric pressure, direction, intensity, and other properties of the storm 
 ## [[Stormcaller]]
 ## [[Pressurepipe]]
-a pipe that is bound to the [Sign of Winds], creating a constant pressure differential that fores air through it, this differential can be moved or shaped with bindings
+a pipe that is bound to the [[Sign of Winds]], creating a constant pressure differential that forces air through it, this differential can be moved or shaped with inclusion of topological bindings
 ## [[Crystalarium]]
 a class of machines that are designed to grow any repeating lattice structure such as crystals and proteins at the atomic level, you can put an already formed crystal and make it bigger or seed a new crystal, the crystal seed can be made of most material which will give varying qualities of crystal, uses [[Liquid sharpening]], a vacuum chamber, and [[Phase Crystal]](s) to control and optimize lattice growth
 ## [[Alkahest]]
@@ -33,6 +33,11 @@ a machine of power, precision in sign manipulation perfected within a chaise of 
 a failed attempt at ultimate power
 ## [[Instant popcorn packet]]
 a small packet of popcorn that, when bent in half prepares itself, uses a disposable induction heater and special genetically altered popcorn that pops at much lower temperatures. After it’s done you shake it to evenly distribute the flavoring. Comes in a variety of "limited edition" flavors, that despite everything are always in stock
+
+## [[Binding Tech]]
+### [[Planar binding mechanism]]
+a type of device that used the [Complex plane] as method to bind itself to a realm
+
 ## [[Optical tech]]
 ### [[Omnifocal lens]]
 a type of spherical lens, made from [[#Optic Glass]], that can bend light in any direction, it is programmable with a small circular spot on the lens allowing power and data input, 

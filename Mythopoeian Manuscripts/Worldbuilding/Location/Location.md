@@ -17,7 +17,7 @@ high Signa galaxies are much smaller and spin much faster
 ### [[Galactic Arm]]
 
 ### [[Galactic Sector]]
-Crucible of the Cosmos: a place in the galaxy where most stars are reborn and mega structures are forged, many solar systems and home worlds orbit this place as it is a center of intra-galaxic trade, migration, and power
+Crucible of the Cosmos: a place in the galaxy where most stars are reborn and mega structures are forged, many solar systems and home worlds orbit this place as it is a center of intra-galaxic trade, migration, and technological power
 
 # [[Non-Stellar System]]
 Celestia systems without a central star
@@ -57,41 +57,46 @@ the hemisphere of [[Stone]] that faces its star
 
 #### [[Amoebic sea]]
 oddly colored body of liquid which is made up of 50% or more biological matter, often in the form of microscopic organisms, these often exist under oceans or seas, forming off of the dead biological matter that falls to the bottom of them, these seas are also often extremely salty and can be analogous to brine pools, these pools are often extremely dark as most light is absorbed or scattered by the living organisms - 
-## [[Valley]]
+##
+### [[Valley]]
 1.05 G
-homeworld of the [[Scaled Tortles]]
-A celestial body settled by several [[Hominid]] species when a [[Signa Star]] passes through the [[#Sol]] system several thousand years before space faring cultures start to arise from [[#Terra (N/P)]]. When this starts to happen humans are the first to get to the planet. The people of Valley where transported by an alien species scout mission searching for life on other worlds, they decide to transplant some of the human cultures, they are unaware of the many other species cultures because of their own biases The planet has seven continents, each with a wide variety of cultures, each nation has its own divine strain of grain. The type of grain is what defines the society, monetary values, and trade and how the inhabitants gain their abilities like luck, prosperity, destruction etc. the people call this world Humus or "new soil"
+World of ten thousand suns, the garden under the Kaleidoscope sky. 
+A world's with a Dyson sphere like structure around the planet that is well beyond the frost line but is warmed by thousands of large mirrors that reflect the suns lights onto its surface
+A celestial body settled by several [[Hominid]] species when a [[Signa Star]] passes through the [[#Sol]] system several thousand years before space faring cultures start to arise from [[#Terra (N/P)]]. When this starts to happen humans are the first to get to the planet. The people of Valley where transported by an alien species scout mission searching for life on other worlds, they decide to transplant some of the human cultures, they are unaware of the many other species cultures because of their own biases The planet has a seven segmented super-continent, with each with a wide variety of cultures, each nation has its own divine strain of grain. The type of grain is what defines the society, monetary values, and trade and how the inhabitants gain their abilities like luck, prosperity, destruction etc. the people call this world Humus or "new soil"
 the planet is also very volcanically active, giving the planet seven continental plates, each lined with their own ring of fire
-The planet also has six moons, only four of which are available to the naked eye, the other two are far enough away to need telescopes, humans have found the fourth moon and have kept this information through their post transplant collapse along with a bunch of other ancient scientific discoveries, rescued by a religion of knowledge cult. the fifth moon has yet to be discovered 
+The planet also has six moons, only four of which are available to the naked eye, the other two are far enough away to need telescopes, humans have found the fourth moon and have kept this information through their post transplant collapse along with a bunch of other ancient scientific discoveries, rescued by a religion founded from the practices of the [[Cult of All Knowledge(N/P)]]. the fifth moon has yet to be discovered by the native human population
 There are certain parts of the planet that have a more varied mineral and element content so pieces of the planet will be pushed in a certain direction giving rise to crazy impossible-looking structures like floating islands, valleys that go miles under the sea level, land trenches, and staircase-like canyons that run deep underground and into the sky. Caves containing minerals or diverse matter content have odd shapes, sometimes being perfectly curved, flat, or patterned walls (depending on the material) have floating crystals, energy structures, complex forces, or mind-bending structures, these are uncommon and are dispersed throughout the planet's crust.
-The only resource this world doesn't have is highly radioactive elements as they decay extremely fast, Coal and oil doesn’t exist on this planet so even though humans were sufficiently advanced, the industrial revolution never happened, there was a magic replacement but the emperor of the human empire was so obsessed with keeping it a secret that it was never used outside of the emperors chambers
-- The planet doesn’t have a singular moon it has many tiny moons making the tide harder to predict, in the future the moons are used as skyhooks, refueling stations, mining stations, and bases
-- The planet has a supercontinent like pangea
+This world doesn't have is highly radioactive elements as they decay extremely fast, Coal and oil doesn’t exist on this planet so even though humans were sufficiently advanced, the industrial revolution never happened, there was a magic replacement but the emperor of the human empire was so obsessed with keeping it a secret that it was never used outside of the emperors chambers
+- astronomy becomes a forbidden practice, astrophysics is a form a heresy, trying to comprehend the divine is seen as trying to become divine 
+- the whole planet is a terraforming project by an interstellar culture made up of several species from the system 
+- the planet is divided up in to several sections 
+- The planet has many tiny moons making the tide harder to predict, moons are used as sky-hooks, refueling stations, mining stations, and bases
+- The planet has a super-continent like pangea
 - The humans have similar traits and behavior to a native species that they have myths about 
 - native humans use the expression “by the fourth wind/moon”
-- Synl Yrun Geml Hys'iv
-### [[Notos - West wind]] (N/P)
+- Synl Yrun Geml Hys'iv, the four gods of the winds
+#### [[Oceanic Plain]]
+a biome on this planet that is essentially a giant super-deep valley that has similar properties to the open ocean, stuff like pressure differences, light levels, and distribution of life. features like ravines, brine pits, continental shelves, hydrothermal vents, and kelp forest
+#### [[Notos - West wind]] (N/P)
 first and second largest of the moons around [[Valley]]
 Zapad
-### [[Zephyrus - East wind]] (N/P)
+#### [[Zephyrus - East wind]] (N/P)
 second and second smallest of the moons around [[Valley]]
 Istok
-### [[Eurus - South wind]] (N/P)
+#### [[Eurus - South wind]] (N/P)
 third and second smallest of the moons around [[Valley]]
 Jug
-### [[Boreas - North wind]] (N/P)
+#### [[Boreas - North wind]] (N/P)
 forth and third largest of the moons around [[Valley]]
 Sever
-### [[Needle]]
+#### [[Needle]]
 fifth and smallest of the moons around [[Valley]]
 Igla
-### [[Rose]]
+#### [[Rose]]
 sixth and largest of the moons around [[Valley]]
 Rouz
-### [[Highest Sea]]
+#### [[Highest Sea]]
 A sea in space, in the creation myth for a world, a god strikes a rock creating a crack in it that pours water out of it to give the people a fresh warm spring, the people do something stupid and the god throws the rock into orbit in anger where it creates a sea in the sky. Bonus gods have a habit of throwing things into the sky, guess where they all end up
-### [[Oceanic Plain]]
-a biome on this planet that is essentially a giant super-deep valley that has similar properties to the open ocean, stuff like pressure differences, light levels, and distribution of life. features like ravines, brine pits, continental shelves, hydrothermal vents, and kelp forest
 ## [[Wheel]]
 2.22 G
 homeworld of the [[Pterodactyl Cow Species]] 

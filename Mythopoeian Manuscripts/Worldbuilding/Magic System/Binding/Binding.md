@@ -8,7 +8,7 @@ date created: 2024-09-30T01:31:00
 last updated: 2024-10-16T01:31:00
 media:
 ---
-
+# [[Field Binding]]
 ## [[Energetic Binding]]
 bindings that sustain themselves through a constant input of lower entropy/concentrated energy from outside the system. these bindings are the most common and most unstable as energy is everywhere and constantly shifting in its flow.
 

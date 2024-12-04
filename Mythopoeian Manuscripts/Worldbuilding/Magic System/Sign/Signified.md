@@ -1,10 +1,12 @@
 ---
 tags: 
-parent docs: 
+parent docs:
+  - "[[Magic System]]"
 sibling docs: 
 child docs: 
 date created: ""
 last updated: 
 media:
 ---
-(document lacks the proper depth to be displayed)
+# [[System]]
+# [[Signifier]]

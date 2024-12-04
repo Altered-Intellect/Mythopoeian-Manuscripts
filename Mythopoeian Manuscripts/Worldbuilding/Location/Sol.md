@@ -10,6 +10,7 @@ media:
 date created:
 ---
 # Concept
+the star at the center of the system that [[Terra]] orbits, it is a direct analogue of our Sun
 ## Reference
 # Relationships
 ## Parent Location(s)
@@ -18,6 +19,7 @@ date created:
 ## Type
 
 # [[Timeline]]
+
 ## Age
 ## Development
 
@@ -29,3 +31,5 @@ date created:
 ## Function 
 
 # [[Realm]]
+
+## [[Terra's World Tree]]
