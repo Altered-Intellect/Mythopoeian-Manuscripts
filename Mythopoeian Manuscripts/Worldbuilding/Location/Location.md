@@ -11,54 +11,55 @@ media:
 # [[Cosmic Weave]]
 our universe is describes as a web of galactic super-clusters, in this universe, the shape of this web is more regular and has sections that behave similarly to fractals like waves, repeating or retaining a predictable structure
 - the shape of the weave is due to the electromagnetic interactions between matter and the [[#Inter-Planar Medium]] affecting the macro scale structures of the universe 
-## [[Galaxies]]
+- the expansion of the universe happens at a slower but more consistent rate, mainly due to the ability for matter and energy to travel freely through spacetime via the [[Inter-Planar Medium]]
+## [Galaxies]
 high Signa galaxies are much smaller and spin much faster
 
-### [[Galactic Arm]]
+### [Galactic Arm]
 
-### [[Galactic Sector]]
+### [Galactic Sector]
 Crucible of the Cosmos: a place in the galaxy where most stars are reborn and mega structures are forged, many solar systems and home worlds orbit this place as it is a center of intra-galaxic trade, migration, and technological power
 
-# [[Non-Stellar System]]
+# [Non-Stellar System]
 Celestia systems without a central star
-## [[Saldo]]
-### [[Balance]] 
+## [Saldo]
+### [Balance]
 the large [[Gaseous Planet]] that is the center of the system
 [[Saldo]]
-#### [[Current]]
+#### [Current]
 3.48 G
-the largest orbiting body of [[Balance]], home-world of the [anemone crayfish](a species that resembls crayfish crabs and is both radially and bimetrically symmetric, they can sense light of specific wavelenghts that are produced using bioluminecence and biophotoreception, are roughly the size of a coconut crab) they live underneath the global ocean covered in ice, it is a rouge planet in a relatively small elliptical orbit around a star cluster
+the largest orbiting body of [[Balance]], home-world of the [[anemone crayfish]] they live underneath the global ocean covered in ice, it is a rouge planet in a relatively small elliptical orbit around a star cluster
 - The cultures of Current revere light as a sort of spiritual force, and electromagnetism as a divine force separate but connected to the more “mundane” forces like heat, matter, gravity, and bindings, They define electromagnetism slightly differently and put more emphasis on its interactions with Signa
 - cultures view change as a natural property of existence, light, which moves at the speed of causality is seen as unnatural, exotic, and strange
 #### [[Sibling]]
 the largest orbiting body around [[Current]]
-# [[Stellar System]]
+# [Stellar System]
 
 A trinary [[Signa Star]] [[Stellar System]] with each with high levels of [[Signa]] where life was seeded on this planet many times as life makes it way through the wormhole in the center of the trinary system this planet transporting pre-prehistoric species from across the galaxy, it is the most genetically diverse place in the universe
-## [[Stellar Atmosphere]]
+## [Stellar Atmosphere]
 medium of Intra-stellar material mostly consisting of charged particles, electromagnetic fields, and atomic debris. these form dynamic weather that interacts with the bodies that orbits the stars and the [[Inter-Planar Medium]]
-## [[Spectrum-house]]
+## [Spectrum-house]
 A collection of plants from different planets covering the whole spectrum of light, they are from different parts of the universe, each one has a unique shape and reflects a very specific wavelength of light, the collection has thousands of plants, each plant is housed within cubic meter of space genetically engineered to fit in the space given, each wall of the space emits light the plant can use but is transparent to the specific frequency that the plant reflects.
 
-## [[Stone]]
+## [Stone]
 .67 G
 the world of twin lands of stone and ice 
 an eyeball planet with its sunward side mostly covered in mountains desserts, and the nightward side covered in oceans blanketed by ice 
 Kamen
-### [[Nightward]]
+### Nightward
 the hemisphere of [[Stone]] that faces away from its star
 - Hexagon rocks on continental scale
-### [[Stormwall]]
+### Stormwall
 the eternal storm that separates the [[#Nightward]] side from the [[#Starward]] side
-#### [[Shadowland]]
+#### Shadowland
 the area before the [[Stormwall]] on the [[Starward]] side
-### [[Starward]]
+### Starward
 the hemisphere of [[Stone]] that faces its star
 
-#### [[Amoebic sea]]
+#### [Amoebic sea]
 oddly colored body of liquid which is made up of 50% or more biological matter, often in the form of microscopic organisms, these often exist under oceans or seas, forming off of the dead biological matter that falls to the bottom of them, these seas are also often extremely salty and can be analogous to brine pools, these pools are often extremely dark as most light is absorbed or scattered by the living organisms - 
-##
-### [[Valley]]
+## High star
+### [Valley]
 1.05 G
 World of ten thousand suns, the garden under the Kaleidoscope sky. 
 A world's with a Dyson sphere like structure around the planet that is well beyond the frost line but is warmed by thousands of large mirrors that reflect the suns lights onto its surface
@@ -75,80 +76,79 @@ This world doesn't have is highly radioactive elements as they decay extremely f
 - The humans have similar traits and behavior to a native species that they have myths about 
 - native humans use the expression “by the fourth wind/moon”
 - Synl Yrun Geml Hys'iv, the four gods of the winds
-#### [[Oceanic Plain]]
+#### [Oceanic Plain]
 a biome on this planet that is essentially a giant super-deep valley that has similar properties to the open ocean, stuff like pressure differences, light levels, and distribution of life. features like ravines, brine pits, continental shelves, hydrothermal vents, and kelp forest
-#### [[Notos - West wind]] (N/P)
+#### Notos - West wind(N/P)
 first and second largest of the moons around [[Valley]]
 Zapad
-#### [[Zephyrus - East wind]] (N/P)
+#### Zephyrus - East wind (N/P)
 second and second smallest of the moons around [[Valley]]
 Istok
-#### [[Eurus - South wind]] (N/P)
+#### Eurus - South wind (N/P)
 third and second smallest of the moons around [[Valley]]
 Jug
-#### [[Boreas - North wind]] (N/P)
+#### Boreas - North wind (N/P)
 forth and third largest of the moons around [[Valley]]
 Sever
-#### [[Needle]]
+#### Needle
 fifth and smallest of the moons around [[Valley]]
 Igla
-#### [[Rose]]
+#### Rose
 sixth and largest of the moons around [[Valley]]
 Rouz
-#### [[Highest Sea]]
+#### [Highest Sea]
 A sea in space, in the creation myth for a world, a god strikes a rock creating a crack in it that pours water out of it to give the people a fresh warm spring, the people do something stupid and the god throws the rock into orbit in anger where it creates a sea in the sky. Bonus gods have a habit of throwing things into the sky, guess where they all end up
-## [[Wheel]]
+## [Wheel]
 2.22 G
 homeworld of the [[Pterodactyl Cow Species]] 
 land of shimmering clouds, winds like tides and mountains that gouge rifts in the sky
 Toиak
-## [[Hearth]] (N/P)
+## [Hearth] (N/P)
 k class star, Signa matter ratio of 0.00002544, low enough to be considered in a [[Signa Void]], named [Absence] by many of the cultures outside of the system
 this body is unique because it, and most of the bodies in its system, are completely devoid of [[Signa]] but still has the properties to develop and sustain life
 the star has the highest concentration of [[Signa]] in the system because of its mass, but due to its heavy interaction with both [[Electromagnetism]]
 named by the [[High Glider]](s)
-### [[Ferrous]]
+### [Ferrous]
 2.64 G
 known as the "iron body" by the the sapient cultures of [[Nebos]], made mostly of iron, carbon, and silicon, it is the blown out core of a supernova that drifted as a rogue body for a couple of million years before settling into an orbit around another star, through its high magneticity 
 lighter elements where blown off by galactic wind (or extracted by a an interstellar civilization? maybe they planted some drones to monitor the system?)
 
-#### [[Nebos]]
+#### [Nebos]
 .98 G
 known as "The Sea" by most of that inhabit the body, orbiting [[Ferrous]], it is more similar to Earth than Terra, it has more surface water (around 82%) and has a stronger magnetic field and more active tectonic cycle, [[Nebos]]' composition is almost identical to earth is only slightly less massive, within a percent. 
 the life that inhabit this planet haven't evolved to interact with [[Signa]] and thus are unable to perform sign manipulation through biological mechanisms, but are still able to use signs and develop a second voice
 as they are integrated within the galactic society, refer to themselves as "supernatural snubs"
 
-##### [[Wrong-half beach]]
+##### [Wrong-half beach]
 a coast of strange happenings. Where the weird comes up from the depths and the unknown beaches its terror. the place on [[Nebos]] with the highest concentration of Signa
 pogrešna pola plaže beach or P3 beach
-##### [[The Truth Office]] 
+##### [The Truth Office]
 a repurposed neutrino detection lab located under a glacier owned by the nations government, documented to research the development of the growing field of biotechnology. Its true goal is tangential to that, focusing research on [[Signa]]s interaction with biology. they design the technology that allows people to manipulate fundamental particles with their mind, The designs were partially made through trial and error calculations by a super computer the have to run at high efficiency this the cold bunker, 
 their research is about figuring out the mechanism the prevents the stable formations of [[Signa]] on the planet by studying the small quantities of it that can survive in meteorites rich in salt which are most easily found in arctic poles and deserts
 - special care is made to trap their stores of [[Signa]] in special containers so the [[Leviathan]]s in the system cant feed off of it
 - the neutrino detection facility used lasers, em fields, and frequency analysis to get their detectors down to absolute zero, this makes neutrino detection orders of magnitude more likely
 - the green house for anomalous plants
 - used to be run by some very passionate but worn astrophysicists 
-##### [[Morrico valley]]
-###### [[Morrico]] 
+##### [Morrico valley]
+###### [Morrico]
 hometown of [[Conner]] and [[Samantha]], and much of older generation in the local area
-##### [[The Data site]]
-the [[Government facility]]'s sister location, a bunker located in the desert, is used to test dangerous biotech and reality bending tech derived from their unique analogue computation devices that use the most cutting edge scientific thinking with the infinite properties of [[Signa]], particle research from the arctic facilities and a supply Signa gathered from meteorites. the location was chosen because of the already existing collection of meteorites in the area and its range from populated areas. the bunkers purpose is to test entropy new bending tech and a variety of energy collection technologies. the energy collection research is stated to be for the reversal of climate change brought on by the collapse of an ecosystem on one of the islands and a source of green energy from the radiation that hits the planet. the energy research is mostly a cover business to fund their research into cracking the structure of the universe open
+##### [The Data site]
+the [Government facility]'s sister location, a bunker located in the desert, is used to test dangerous biotech and reality bending tech derived from their unique analogue computation devices that use the most cutting edge scientific thinking with the infinite properties of [[Signa]], particle research from the arctic facilities and a supply Signa gathered from meteorites. the location was chosen because of the already existing collection of meteorites in the area and its range from populated areas. the bunkers purpose is to test entropy new bending tech and a variety of energy collection technologies. the energy collection research is stated to be for the reversal of climate change brought on by the collapse of an ecosystem on one of the islands and a source of green energy from the radiation that hits the planet. the energy research is mostly a cover business to fund their research into cracking the structure of the universe open
 - has a very compact, but very high energy particle accelerator
 #### [[Nebos' World Tree]]
 because of the [[Signa Void]] that prevents stable bindings within the system, Thalasia's world tree isn't a living thing, instead an artificial construct created by the 'sapient species' occasional interactions with Signa and bindings when developing language and technology, these inscriptions are set within the whole structure and are a preserved record of Signa's interaction with Nebos.
 - their world tree appears as a plateau of stone, inscribed with the True names and bindings of the people who have bound with Signa
-- as the species develops, the plateau of stone becomes a pillar, then to a large tower that extends seemingly endlessly into the [[#Inter-Planar Medium]], and is woven with a sprouting [[World Tree]] as more and more species start incorporating Signa into their biology, this tower is used as an interstellar port for those travelling to and from [[Signa Star]](s)
+- as the species develops, the plateau of stone becomes a pillar, then to a large tower that extends seemingly endlessly into the [[#Inter-Planar Medium]], and is woven with a sprouting [World Tree] as more and more species start incorporating Signa into their biology, this tower is used as an interstellar port for those travelling to and from [[Signa Star]](s)
 ## [[Sol]] 
 K class star, Signa-matter ratio of 9.23, high enough for it to be considered a failed [[Signa Star]]
 ### [[Terra]]
 1.42 G
->Terrans, children of Gaia. The most feared of the Celestial Pantheon
+>Terrans, children of [Gaia]. The most feared of the Celestial Pantheon
 
 this planet has a similar amount of water content to earth, but only 66% of the surface is covered in oceans as most of the water is held within ice caps, the large continent spanning ecosystems like the [[#Arboreal basin]](s) and within the crust of the planet, and the ecosystem of the [[#Deeplakes]].
 the planet is a living system, with life affecting the planet as much as the planet affects life,
 Coal and oil does not exist in significant amounts on this planet so even though the [[Hominid]] species (and later the develop similar principals that led to the industrial revolution, the progress is not powered by fossil fuels
 in the wider realms of the interstellar community, all life from [[Terra]] is perceived as extreme, dangerous, strange or most often a combination of the three. the planet has 1.42 times the gravity of earth and has very chaotic weather patterns due to how the magic system interacts with the atmosphere and the various other bodies in the solar system. the tides are also unpredictable due to the giant rings the equally giant moon has. the planets ecosystems cover every inch of the planet, from the super Signa saturated [[Pearlsand Sea]](s) to the poles of the planet that are home to [[Blue-ice Glacier]](s) that fall hundreds of degrees below zero. not to mention the [[Arboreal basin]](s) that fill entire valleys with overgrowth and millions of species that can and will kill you. and yet people insist on building cities on or near each one, think fantasy deathworld that the first aliens had no idea how to approach yet alone classify.
-- Take earth and crank it up to eleven with the craziness
 - because of [[Sol]]'s high [[Signa-mass]] ratio, the Solar winds contain information contained within hyperbolic wormhole at its center, allowing bridges to be formed across worlds 
 - Terra's Aurora is strong enough to bridge between all three [[Realm]](s)
 - the deeper into Terra you go the more perception is warped as more and more stone 
@@ -167,33 +167,19 @@ A fog-covered open market on the way to the center of the city-state, strange st
 
 The Twilight City, Sea of lights, city of the valley folk
 Dance on the cities shore 
-#### [[Theia]] 
-or Θεία
-The moon that orbits [[Terra]]. It is extremely large, around one fourth the mass of [[#Terra (N/P)]], and is the same distance relatively to the planet as the moon is to earth. It has a set of rings that are stabilized by the large mount of [[Signa]] that gets thrown around in the system. The rings of the moon have developed a complex cycle of precession, changing from being perpendicular to the moons orbit to being slanted by about 45 degrees. 
-Solar eclipses are incredibly beautiful as the rings polarize and refract some of the light that shines through them, creating rainbows in the shape of the patterned corona of [[Sol]]
-the moon is often referred to in the mythologies of several cultures as the eye of an ancient god, gouged out and thrown into the sky to watch over the world
-the rings
-- have sections and each has its own sub section change overtime, people measure eras by the amount of rings in each section, i.e. the Era of Five Rings 
-- affect how the tide and the water cycle 
-- have different names in each culture but similar theming, the inner most rings are the most important
-- most of the rings are not fully visible in day light, and usually appear as faint white crescents, at night some of the rings will appear as full circles and other as crescents depending on the composition
-- all rings are only fully visible in lunar or solar eclipse
-there are several asteroid like objects that orbit around Theia, creating the biggest gaps in the rings 
-
-Outer ring matches the seasons of Terra during different eras
-
+#### [[Theia]]
 >"she is the moon and I am her rings" - a line from a poem in [[The snail and the heart-shaped fungus]] 
-##### [[Moonwild]]
+##### [Moonwild]
 an area under the rings of the moon that at a much lower elevation and has a biosphere of bioluminescent lichen-grass and kelp like trees that make a thin forest, this giant low elevation area is sheltered from the light of the sun and allows for lakes of ice to form at the very bottom of the craters, these craters and lava tubes also hold ice from comets that have hit the moon, creating a water cycle that powers the organisms that live in them 
 ice falls from the rings at semi regular intervals and disperses many of the lichen species
 the ecosystem has and active water cycle, with water going from a solid to a gas and back again, the steam forming a medium that spores and seeds can disperse through 
 - exists partially in the complex plane as lower elevation has pooled [[Signa]] over many hundreds of thousands of years
-- intersection between [[#Terra's World Tree]] and [[Valley's World Tree]]  
+- intersection between [[#Terra's World Tree]] and [[Valley's World Tree]]
 
-#### [[The Valley]]
+#### [The Valley]
 tectonically one of the most ancient place on [[Terra]]
 
-##### [[Horizon City]]
+##### [Horizon City]
 a coastal city built around a giant crater, rich in metals from the meteorite that made the impact
 - ancestral homeland of the [[#Metalcast Dragons]]
 - A warehouse vehicle shop that stores it vehicles by strapping them to the ceiling 
@@ -202,15 +188,16 @@ a coastal city built around a giant crater, rich in metals from the meteorite th
 - there's a store in my town that closed about a year ago, when you look in the window there's nothing in there but a half full bottle of pepsi smack dab in the middle of the floor at night a light is always on and it just illuminates the bottle so fucking ominously. I've come to the conclusion it's being used as bait for something
 - Hotel Harbera 
 - Library of Sextants
-###### [[Home and Hoard]] 
+###### [Home and Hoard]
 a dragon themed tavern ran by a [[Dwarf]]-[[Halfling]] and a [[Half-Dragon]]
 
-###### [[The D6]]
+###### [The D6]
 A coffee shop restaurant hybrid that serves everyone from adventures to dungeon creatures to dragons called Dungeoneers & Dragons & Donuts & Diners & Drive-ins & Dives nicknamed the D6.
-##### [[The University]]
-###### [[Sword and Staff]]
+##### [The University]
+an ancient home of knowledge that lies within [The Valley]
+###### [Sword and Staff]
 pub for students and travelling scholars who are studying magic [[#The University]].
-#### [[Scorpion den]] 
+#### [Scorpion den]
 formed by dragons living in the massive sandy desert and crowding around the biggest oasis in the desert because there is nothing to control around the oasis. Some dragons control the territory around it and build structures out there, most of which are consumed by the sand. This crowding forces dragons into an incredibly small area by dragon standards, making dragons live so close kicks their territorial instincts in the nuts. This turns the scorpion den into a vile pit of thieves and crime with most dragons becoming unhinged, angry, or depressed at the lack of space, they have adapted to this but the instinct is still there. The scorpion den is controlled by a single family that regulates the water in the den and recruits powerful dragons to enforce their control. named after the scorpions whose venom can instantly kill a full grown adult dragon, but only stun humans
 
 #### [[The Great Lake]]

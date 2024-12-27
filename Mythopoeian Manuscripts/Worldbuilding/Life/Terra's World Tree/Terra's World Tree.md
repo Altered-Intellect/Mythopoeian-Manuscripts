@@ -5,10 +5,17 @@ parent docs:
 sibling docs: 
 child docs: 
 date created: 2024-10-07T04:19:00
-last updated: 2024-10-07T04:19:00
+last updated: 2024-12-14T04:19:00
 media:
 ---
-The world tree of the Terran system is larger than others because of the concentration of [[Signa]] in the system, and the sheer size of the planet within the [[Complex Plane]]
+the [[World Tree]] of [[Terra]]
+The world tree of the Terran system is one of the largest world trees in the known universe because of the concentration of [[Signa]] in the system, and the sheer size of the planet within the [[Complex Plane]], with the highest recorded variation in Signa density and biodiversity. 
+
+The tree has branches for both its carbon and silicon [[Life]]. the carbon branch has no elemental branches other than carbon-phosphorus, but the silicon branch has two, silicon-magnesium, rubidium, and sulfur. Life initially arose from the silicon branch but was soon out competed for space by the carbon branch as the planet cooled. Despite this, due to its interactions with the magic system, silicon life survives deep within the mantel of the planet and has given birth to many branches of [[Possessor Spirit]] the most notable of which is [[Demon]](s).
+# [[Realm]]
+
+# [[World Scar]]
+because of the collision with [[Theia]], [[Terra]] has a large world scar, the roots of its world tree anchor around, unable to gain purchase on the world altering event itself, but its impact has a major influence on the shape of the world tree.
 # [[Spirit]]
 (Type)
 Spirits are beings formed from [Signa], structured by [Bindings], and almost exclusively interact with Signa fields in the [[Complex Plane]]. Spirits form when Signa binds to a [System] closed interactions of things. (spirit of the forest, spirit of fire, the spirit of the Ensley house) There are different types of spirits that are defined and classified by how they are made, their attributes, and how they interact with the physical realm. Spirit life thrives off of ecosystems in our realm. If a forest becomes big or old enough a spirit will grow off of it, that forest will get a spirit to represent it. The same can happen for any ecosystem, anything from a routine, to a relationship, to a storm, to a simple task. As long as it can be described as a system of things, then a spirit can form from it. The spirit of course reflects the system it came from, a spirit that represents a city is going to be much more complex than one that represents a simple routine. The size of the system also affects the size and shape of the spirit. The spirit for the city might be a giant animal protector that repels invaders while the one for a routine might be a simple insect that walks a predictable path.
@@ -354,7 +361,3 @@ possessor spirits that eats IR radiation, often live near caves with high consis
 #### [[Lesser Mimic]]
 #### [[Greater Mimic]]
 a mimic that posses entire man made structures such as buildings
-
-# [[Realm]]
-
-# [[World Scar]]

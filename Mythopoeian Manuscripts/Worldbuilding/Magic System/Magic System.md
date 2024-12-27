@@ -46,9 +46,10 @@ Related terms : (antithesis, mind, medium, movement, thinking)
 - Imitation, symbolism, rhyming, and medium all affect how a being may read the sign, and how they might express the sign.
 
 # The [[Binding]]
-the intersection between two or more [[Sign-System]](s). It is the most simplistic interaction between two [[Sign]](s) making them act as a distinct whole, a link between two or more [[System]] using Signa fields, it is the language that [[Sign]](s) uses to operate
+the intersection between two or more [[Sign-System]](s). It is the most simplistic interaction between two [[Sign]](s) making them act as a distinct whole, a link between two or more [[System]](s) using Signa fields, it is the language that [[Sign]](s) uses to operate
 
 # The [[Signa Field]]
+
 an extra permeable field like space-time or the electromagnetic field. It is the medium of information. Its carrier particle, the [[Lekton]], is the basis to any [[Sign-System]]. It interacts with all other laws of physics altering how entropy and emergence behave, Signa binds to how information in the universe is structured,
 ## [[Signa]]
 the substance of magic, it is the group of particles that act as the physical mechanisms of [[Binding]](s), [[Sign]](s), and [[Realm]](s).

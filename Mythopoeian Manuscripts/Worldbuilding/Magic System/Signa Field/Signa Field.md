@@ -18,7 +18,7 @@ this density is tied to the "probability"
 - Signa has a particle-wave duality, thus the probability that a Signa particle will affect the [[System]] that it is bound to is dependent on structure and energy-mass content of the System
 - the higher the density, the higher the interactions
 
-### [[Anti-Signa]]
+### [[Anti-Signa]
 a family of phenomena that reverse or decrease the effect of the [[Signa Field]] in a [[System]]
 as [[Signa particle]](s) do not have an inherent charge, spin, or size and can be formed from both positive and negative energy, [[Signa]] can not form anti particles
 - removing [[Sign Manipulation]] in a living organism requires surgery and/or the ability to create a [[Signa Void]] which requires algebraic math and precision using [[Sign Circle]]

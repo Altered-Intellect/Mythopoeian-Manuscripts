@@ -34,7 +34,7 @@ Bindings that affect the strong and weak nuclear forces 
 - Accelerate or decelerate atomic decay
 - manipulate temperature (?)
 ## [[Spirit Binding]]
-binding that can trap, store, and manipulate spirits using [[#Asymmetric]] bindings to connect a living being to a spirit, a spirit binding needs an object to use as the [[Subject]]
+binding that can trap, store, and manipulate spirits using [asymmetric] bindings to connect a living being to a spirit, a spirit binding needs an object to use as the [[Subject]]
 this process allows the bound spirit to share its properties with a biological being, providing a way to obtain magical abilities, there are three different types of spirit binding, [[Dominion]], [[Contractual]], and [[Enchantment]]
 Some ideas for abilities that spirits have:
 -   obtain the knowledge and skill related to the spirit (navigate a forest, reference material in a book, manipulate a material)
@@ -43,7 +43,8 @@ Some ideas for abilities that spirits have:
 -   convey the true name of something
 -   ability to alter magic circles
 ### [[Dominion]]
-a destructive spirit binding Either the person or the spirit must be unwilling to make the binding as then it would be a [[#Contractual]] binding. 
+a destructive spirit binding
+either the person or the spirit must be unwilling to make the binding as then it would be a [[#Contractual]] binding. 
 doing this you must wrangle a spirit and then bind it onto you. a person is put in a magically induced coma usually in a temple. The persons [[#Souls|soul]] enters the [[Spirit Realm]] as a [[#Shades|shade]] and they must wrestle the spirit into their body. The temple is used as a beacon so the souls of its inhabitants don’t get lost. Spirits come in a wide variety of types and the abilities they give is also just as varied but directly relate to the spirit it comes from. The spirit of a repetitive tasks, if used, will give the person knowledge and ability to do that task. The more complex a spirit is, the more complex abilities the wrestler gets if they succeed in binding it, and the easier it is for the spirit to trick or overpower and win. If a spirit wins the wrestle, the bindings is still made, but the spirit chooses the parameters of the binding, instead of the initiator, this often leads to the collapse of the binding, but with spirits that are complex enough, the spirit will choose rule the initiator will reject so they become the unwilling party. 
 the nature of the spirit often gets irrevocably changed by the binding as they are acting as an anchor between two completely different systems with sometimes wildly different properties. 
 ### [[Contractual]] 

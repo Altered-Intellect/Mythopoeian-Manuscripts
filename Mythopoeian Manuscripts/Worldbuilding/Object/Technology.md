@@ -1,6 +1,7 @@
 ---
 tags: 
-parent docs: 
+parent docs:
+  - "[[Object]]"
 sibling docs: 
 child docs: 
 date created: ""
@@ -34,7 +35,7 @@ a failed attempt at ultimate power
 ## [[Instant popcorn packet]]
 a small packet of popcorn that, when bent in half prepares itself, uses a disposable induction heater and special genetically altered popcorn that pops at much lower temperatures. After it’s done you shake it to evenly distribute the flavoring. Comes in a variety of "limited edition" flavors, that despite everything are always in stock
 
-## [[Binding Tech]]
+## [Binding Tech]
 ### [[Planar binding mechanism]]
 a type of device that used the [Complex plane] as method to bind itself to a realm
 
